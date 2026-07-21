@@ -1,0 +1,2 @@
+"compared_genes","fc_correlation","pvalue_correlation","top100_overlap","significant_jaccard","key_genes_recovered","reference_orientation","pipeline","filter","normalization","retained_genes","antigen_positive_rois","antigen_negative_rois","status","fc_score","pvalue_score","top100_score","key_gene_score","overall_score"
+738,0.175082107453228,-0.011481505571444,11,0.0227272727272727,0,"reference_is_positive_minus_negative","loq_20pct__geomx_q3","loq_20pct","geomx_q3",738,8,15,"success",0.175082107453228,0,0.11,0,0.0943055702540185

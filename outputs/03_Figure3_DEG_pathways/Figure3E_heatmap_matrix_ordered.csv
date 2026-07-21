@@ -1,0 +1,835 @@
+"Pathway","IFN_Responsive_Microglia_UP","Infiltrating_Macrophages_UP","Transiently_Activated_Microglia_UP","Homeostatic_Microglia_UP","Homeostatic_Microglia_DOWN","Transiently_Activated_Microglia_DOWN","Infiltrating_Macrophages_DOWN","Cluster"
+"DAP12 interactions [Reactome]",0,1.76381188023265,0,0,1.40998605589458,0,0,6
+"negative regulation of peptidyl-tyrosine phosphorylation [GO_BP]",0,1.62552195305961,0,0,0,0,0,6
+"positive thymic T cell selection [GO_BP]",0,1.65378731085589,0,0,0,0,0,6
+"negative regulation of T cell differentiation [GO_BP]",0,1.64962323852911,0,0,0,0,0,6
+"negative regulation of lymphocyte differentiation [GO_BP]",0,1.52596433940668,0,0,0,0,0,6
+"adrenal gland development [GO_BP]",0,1.51340886755958,0,0,0,0,0,6
+"negative regulation of viral transcription [GO_BP]",0,1.51340886755958,0,0,0,0,0,6
+"Cytosolic DNA-sensing pathway - Mus musculus (house mouse) [KEGG]",0,1.57893116928396,0,0,0,0,0,6
+"chemokine-mediated signaling pathway [GO_BP]",0,1.54365248495597,0,0,0,0,0,6
+"positive regulation of immune response to tumor cell [GO_BP]",0,1.55444827066729,0,0,0,0,0,6
+"positive regulation of type 2 immune response [GO_BP]",0,1.55444827066729,0,0,0,0,0,6
+"positive regulation of response to tumor cell [GO_BP]",0,1.55444827066729,0,0,0,0,0,6
+"regulation of myoblast fusion [GO_BP]",0,1.43970840503457,0,0,0,0,0,6
+"positive regulation of type I interferon-mediated signaling pathway [GO_BP]",0,1.43970840503457,0,0,0,0,0,6
+"negative regulation of toll-like receptor signaling pathway [GO_BP]",0,1.43970840503457,0,0,0,0,0,6
+"deoxyribose phosphate catabolic process [GO_BP]",0,1.43970840503457,0,0,0,0,0,6
+"positive regulation of calcium ion transport [GO_BP]",0,1.46722095918032,0,0,0,0,0,6
+"pyridine-containing compound biosynthetic process [GO_BP]",0,1.47280876441052,0,0,0,0,0,6
+"sphingosine metabolic process [GO_BP]",0,1.47280876441052,0,0,0,0,0,6
+"purine deoxyribonucleotide metabolic process [GO_BP]",0,1.47280876441052,0,0,0,0,0,6
+"immunoglobulin production involved in immunoglobulin-mediated immune response [GO_BP]",0,1.34013735666989,0,0,0,0,0,6
+"regulation of immune response to tumor cell [GO_BP]",0,1.30914268264865,0,0,0,0,0,6
+"multicellular organismal-level iron ion homeostasis [GO_BP]",0,1.30914268264865,0,0,0,0,0,6
+"negative regulation of cell adhesion [GO_BP]",0,1.40474234905666,0,0,0,0,0,6
+"transepithelial transport [GO_BP]",0,1.40641823941878,0,0,0,0,0,6
+"deoxyribonucleotide catabolic process [GO_BP]",0,1.40641823941878,0,0,0,0,0,6
+"sphingoid metabolic process [GO_BP]",0,1.40641823941878,0,0,0,0,0,6
+"response to chemokine [GO_BP]",0,1.38090457828793,0,0,0,0,0,6
+"cellular response to chemokine [GO_BP]",0,1.38090457828793,0,0,0,0,0,6
+"sphingolipid metabolic process [GO_BP]",0,1.36896359351773,0,0,0,0,0,6
+"postsynaptic actin cytoskeleton organization [GO_BP]",0,1.37401895059109,0,0,0,0,0,6
+"postsynaptic cytoskeleton organization [GO_BP]",0,1.37401895059109,0,0,0,0,0,6
+"stem cell proliferation [GO_BP]",0,2.34391059525316,0,0,0,0,0,6
+"regulation of type 2 immune response [GO_BP]",0,2.12480165818156,0,0,0,0,0,6
+"positive regulation of release of sequestered calcium ion into cytosol [GO_BP]",0,2.12480165818156,0,0,0,0,0,6
+"MyD88-dependent toll-like receptor signaling pathway [GO_BP]",0,1.71075805889104,0,0,0,0,0,6
+"negative T cell selection [GO_BP]",0,1.71075805889104,0,0,0,0,0,6
+"type 2 immune response [GO_BP]",0,1.7807497960389,0,0,0,0,0,6
+"positive regulation by symbiont of entry into host [GO_BP]",0,1.76895189210162,0,0,0,0,0,6
+"positive regulation of viral entry into host cell [GO_BP]",0,1.76895189210162,0,0,0,0,0,6
+"negative regulation of tyrosine phosphorylation of STAT protein [GO_BP]",0,1.76895189210162,0,0,0,0,0,6
+"negative thymic T cell selection [GO_BP]",0,1.76895189210162,0,0,0,0,0,6
+"regulation of stem cell proliferation [GO_BP]",0,1.96514566267713,0,0,0,0,0,6
+"Hepatitis C - Mus musculus (house mouse) [KEGG]",0,1.86946809481514,0,0,0,0,0,6
+"RIG-I-like receptor signaling pathway - Mus musculus (house mouse) [KEGG]",0,1.86010872965725,0,0,0,0,0,6
+"antimicrobial humoral immune response mediated by antimicrobial peptide [GO_BP]",0,1.80801722378306,0,0,0,0,0,6
+"fructose 6-phosphate metabolic process [GO_BP]",0,1.82753309301066,0,0,0,0,0,6
+"purine deoxyribonucleotide catabolic process [GO_BP]",0,1.82753309301066,0,0,0,0,0,6
+"regulation of toll-like receptor signaling pathway [GO_BP]",0,3.50052700115299,0,0,0,0,0,6
+"hematopoietic stem cell proliferation [GO_BP]",0,3.24619615230637,0,0,0,0,0,6
+"regulation of hematopoietic stem cell proliferation [GO_BP]",0,2.96237907788124,0,0,0,0,0,6
+"Toll-like receptor signaling pathway - Mus musculus (house mouse) [KEGG]",0,2.63548696361572,0,0,0,0,0,6
+"positive regulation of interferon-beta production [GO_BP]",0,2.79118257387548,0,0,0,0,0,6
+"Human T-cell leukemia virus 1 infection - Mus musculus (house mouse) [KEGG]",0,1.50456511762026,0,1.51374501615146,0,0,0,6
+"positive regulation of type I interferon production [GO_BP]",0,2.97820581722384,0,1.4407284601139,0,0,0,6
+"regulation of syncytium formation by plasma membrane fusion [GO_BP]",0,2.27703899065846,0,0,1.72095286174281,3.97357587450951,0,6
+"syncytium formation [GO_BP]",0,1.49053329456257,0,0,2.35364094070425,3.2688646748355,0,6
+"syncytium formation by plasma membrane fusion [GO_BP]",0,1.52596433940668,0,0,2.35546761481584,3.2688646748355,0,6
+"cell-cell fusion [GO_BP]",0,1.52596433940668,0,0,2.35546761481584,3.2688646748355,0,6
+"Biosynthesis of DHA-derived SPMs [Reactome]",0,0,0,0,0,1.96958885194733,0,6
+"Biosynthesis of specialized proresolving mediators (SPMs) [Reactome]",0,0,0,0,0,1.96958885194733,0,6
+"regulation of glial cell migration [GO_BP]",0,0,0,0,0,1.30346061660998,0,6
+"positive regulation of glial cell migration [GO_BP]",0,0,0,0,0,1.61591059890302,0,6
+"negative regulation of glycoprotein metabolic process [GO_BP]",0,0,0,0,0,1.59516008971665,0,6
+"positive regulation of syncytium formation by plasma membrane fusion [GO_BP]",0,0,0,0,1.7535655486809,2.8284223222801,0,6
+"DAP12 signaling [Reactome]",0,0,0,0,1.68219342581148,1.48440646173608,0,6
+"positive regulation of cholesterol efflux [GO_BP]",0,0,0,0,1.7535655486809,1.30346061660998,0,6
+"dendritic spine maintenance [GO_BP]",0,0,0,0,1.72095286174281,1.30346061660998,0,6
+"response to axon injury [GO_BP]",0,0,0,0,1.40925940100821,1.61591059890302,0,6
+"regulation of synapse organization [GO_BP]",0,0,0,0,1.3172884021563,1.30346061660998,0,6
+"macrophage activation involved in immune response [GO_BP]",0,0,0,0,1.92690745809323,1.48520822185471,0,6
+"regulation of amyloid fibril formation [GO_BP]",0,0,0,0,1.94771483110114,1.51729039859782,0,6
+"regulation of amyloid-beta clearance [GO_BP]",0,0,0,0,1.94771483110114,1.50115998468624,0,6
+"negative regulation of amyloid fibril formation [GO_BP]",0,0,0,0,2.0905363372623,1.61591059890302,0,6
+"negative regulation of long-term synaptic potentiation [GO_BP]",0,0,0,0,2.05307218926228,1.61591059890302,0,6
+"Other semaphorin interactions [Reactome]",0,0,0,0,1.84637226802912,1.96958885194733,0,6
+"Binding and Uptake of Ligands by Scavenger Receptors [Reactome]",0,0,0,0,1.70602587883526,1.71198237908566,0,6
+"response to lipoprotein particle [GO_BP]",0,0,0,0,2.87352742577156,0,0,6
+"cellular response to lipoprotein particle stimulus [GO_BP]",0,0,0,0,2.87085560361878,0,0,6
+"glial cell migration [GO_BP]",0,0,0,0,1.36206721619296,0,0,6
+"regulation of osteoclast differentiation [GO_BP]",0,0,0,0,1.33017363939592,0,0,6
+"cellular component maintenance [GO_BP]",0,0,0,0,1.33017363939592,0,0,6
+"learning or memory [GO_BP]",0,0,0,0,1.33017363939592,0,0,6
+"innate immune response activating cell surface receptor signaling pathway [GO_BP]",0,0,0,0,1.33017363939592,0,0,6
+"artery morphogenesis [GO_BP]",0,0,0,0,1.3427483289223,0,0,6
+"negative regulation of response to wounding [GO_BP]",0,0,0,0,1.33637177979977,0,0,6
+"negative regulation of lipid localization [GO_BP]",0,0,0,0,1.55995572234632,0,0,6
+"regulation of long-term synaptic potentiation [GO_BP]",0,0,0,0,1.50145817905078,0,0,6
+"regulation of blood coagulation [GO_BP]",0,0,0,0,1.50145817905078,0,0,6
+"regulation of plasma lipoprotein particle levels [GO_BP]",0,0,0,0,1.50145817905078,0,0,6
+"response to wounding [GO_BP]",0,0,0,0,1.50626299363184,0,0,6
+"negative regulation of wound healing [GO_BP]",0,0,0,0,1.50626299363184,0,0,6
+"regulation of sterol transport [GO_BP]",0,0,0,0,1.50487907602712,0,0,6
+"regulation of cholesterol transport [GO_BP]",0,0,0,0,1.50487907602712,0,0,6
+"regulation of macrophage migration [GO_BP]",0,0,0,0,1.52813974433965,0,0,6
+"cholesterol efflux [GO_BP]",0,0,0,0,1.51805965963167,0,0,6
+"Semaphorin interactions [Reactome]",0,0,0,0,1.40998605589458,0,0,6
+"macrophage migration [GO_BP]",0,0,0,0,1.41991526305503,0,0,6
+"regulation of hemostasis [GO_BP]",0,0,0,0,1.4830900762676,0,0,6
+"Systemic lupus erythematosus - Mus musculus (house mouse) [KEGG]",0,0,0,0,1.4677219907252,0,0,6
+"regulation of coagulation [GO_BP]",0,0,0,0,1.45697927085006,0,0,6
+"Coronavirus disease - Mus musculus (house mouse) [KEGG]",0,0,0,0,1.92574691231103,0,0,6
+"negative regulation of platelet activation [GO_BP]",0,0,0,0,1.95681095883621,0,0,6
+"synapse organization [GO_BP]",0,0,0,0,1.94771483110114,0,0,6
+"cellular response to low-density lipoprotein particle stimulus [GO_BP]",0,0,0,0,1.72095286174281,0,0,6
+"amyloid fibril formation [GO_BP]",0,0,0,0,1.72095286174281,0,0,6
+"plasma lipoprotein particle clearance [GO_BP]",0,0,0,0,1.70500730237616,0,0,6
+"positive regulation of osteoclast differentiation [GO_BP]",0,0,0,0,1.68960868490878,0,0,6
+"negative regulation of hemostasis [GO_BP]",0,0,0,0,1.65727163225291,0,0,6
+"amyloid-beta clearance [GO_BP]",0,0,0,0,1.65727163225291,0,0,6
+"positive regulation of cholesterol transport [GO_BP]",0,0,0,0,1.65727163225291,0,0,6
+"positive regulation of sterol transport [GO_BP]",0,0,0,0,1.65727163225291,0,0,6
+"regulation of cholesterol efflux [GO_BP]",0,0,0,0,1.65727163225291,0,0,6
+"negative regulation of blood coagulation [GO_BP]",0,0,0,0,1.65727163225291,0,0,6
+"apoptotic cell clearance [GO_BP]",0,0,0,0,1.62831463471137,0,0,6
+"negative regulation of endothelial cell proliferation [GO_BP]",0,0,0,0,1.64933055720292,0,0,6
+"negative regulation of coagulation [GO_BP]",0,0,0,0,1.64140038442034,0,0,6
+"receptor-mediated endocytosis [GO_BP]",0,0,0,0,0,0,2.13886317376504,6
+"regulation of tissue remodeling [GO_BP]",0,0,0,0,0,0,2.04220258510721,6
+"regulation of bone resorption [GO_BP]",0,0,0,0,0,0,1.96615072624667,6
+"bone remodeling [GO_BP]",0,0,0,0,0,0,1.3466169718481,6
+"visual system development [GO_BP]",0,0,0,0,0,0,1.44774230402261,6
+"response to nutrient levels [GO_BP]",0,0,0,0,0,0,1.44774230402261,6
+"sensory system development [GO_BP]",0,0,0,0,0,0,1.44774230402261,6
+"neutrophil homeostasis [GO_BP]",0,0,0,0,0,0,1.48759407659098,6
+"modulation by host of symbiont process [GO_BP]",0,0,0,0,0,0,1.46973425959099,6
+"regulation of bone remodeling [GO_BP]",0,0,0,0,0,0,1.7823360863759,6
+"bone resorption [GO_BP]",0,0,0,0,0,0,1.60039108460318,6
+"Efferocytosis - Mus musculus (house mouse) [KEGG]",0,0,0,0,0,0,1.65964743104275,6
+"response to extracellular stimulus [GO_BP]",0,0,0,0,0,0,1.71774448381105,6
+"synapse pruning [GO_BP]",0,0,0,0,3.32529014120544,0,1.98254487942999,6
+"complement activation [GO_BP]",0,0,0,0,2.78096055717327,0,1.98254487942999,6
+"humoral immune response mediated by circulating immunoglobulin [GO_BP]",0,0,0,0,2.87085560361878,0,1.46484803798383,6
+"complement activation, classical pathway [GO_BP]",0,0,0,0,3.02818706006975,0,1.7343431515632,6
+"cell junction disassembly [GO_BP]",0,0,0,0,2.95634736929405,0,1.69045625322986,6
+"Complement and coagulation cascades - Mus musculus (house mouse) [KEGG]",0,0,0,0,1.39128242826201,0,2.22572744108399,6
+"Pertussis - Mus musculus (house mouse) [KEGG]",0,0,0,0,1.39024507575189,0,2.22572744108399,6
+"Initial triggering of complement [Reactome]",0,0,0,0,1.84637226802912,0,1.83604805118865,6
+"positive regulation of lipid transport [GO_BP]",0,0,0,0,1.33017363939592,0,1.48759407659098,6
+"Regulation of Complement cascade [Reactome]",0,0,0,0,1.68219342581148,0,1.41038267459893,6
+"Complement cascade [Reactome]",0,0,0,0,1.68219342581148,0,1.33911058931864,6
+"Staphylococcus aureus infection - Mus musculus (house mouse) [KEGG]",2.05046121615169,0,0,0,1.4677219907252,0,2.08873010995584,6
+"gliogenesis [GO_BP]",1.32415678293709,0,0,0,0,0,1.3466169718481,6
+"regulation of tyrosine phosphorylation of STAT protein [GO_BP]",1.55777278755869,1.49053329456257,0,0,0,0,0,5
+"Fc receptor signaling pathway [GO_BP]",1.51898257117518,1.47280876441052,0,0,0,0,0,5
+"Phagocytosis - Mus musculus (house mouse) [KEGG]",1.66115861935274,1.42253766793136,0,0,0,0,0,5
+"negative regulation of cell development [GO_BP]",1.60269999367641,1.45082395316524,0,0,0,0,0,5
+"C-type lectin receptor signaling pathway - Mus musculus (house mouse) [KEGG]",1.34545046387823,1.57893116928396,0,0,0,0,0,5
+"regulation of release of sequestered calcium ion into cytosol [GO_BP]",1.34377332322479,1.35270417870181,0,0,0,0,0,5
+"positive regulation of inflammasome-mediated signaling pathway [GO_BP]",1.36482107823585,1.37401895059109,0,0,0,0,0,5
+"negative regulation of cellular senescence [GO_BP]",1.36482107823585,1.37401895059109,0,0,0,0,0,5
+"negative regulation of cell-cell adhesion [GO_BP]",1.36482107823585,1.46722095918032,0,0,0,0,0,5
+"tyrosine phosphorylation of STAT protein [GO_BP]",1.45119749628635,1.42898289775628,0,0,0,0,0,5
+"regulation of type II interferon production [GO_BP]",2.13306580346232,1.56346831345807,0,0,0,0,0,5
+"Nicotinate metabolism [Reactome]",2.05365004429265,1.51277953517799,0,0,0,0,0,5
+"negative regulation of hemopoiesis [GO_BP]",2.07285623216815,1.52744948867106,0,0,0,0,0,5
+"protein K63-linked ubiquitination [GO_BP]",2.04808385935218,1.41262783547054,0,0,0,0,0,5
+"suppression of viral release by host [GO_BP]",2.15574742974305,1.34013735666989,0,0,0,0,0,5
+"Viral carcinogenesis - Mus musculus (house mouse) [KEGG]",1.82833633465768,1.47375395546722,0,0,0,0,0,5
+"type II interferon production [GO_BP]",1.89008907784703,1.43637691282657,0,0,0,0,0,5
+"cellular response to exogenous dsRNA [GO_BP]",1.94723789666321,1.76895189210162,0,0,0,0,0,5
+"negative regulation of defense response to virus [GO_BP]",1.79910565382267,1.64962323852911,0,0,0,0,0,5
+"Fc-gamma receptor signaling pathway [GO_BP]",1.70394056869901,1.60278580759947,0,0,0,0,0,5
+"release of sequestered calcium ion into cytosol [GO_BP]",2.13306580346232,2.34391059525316,0,0,0,0,0,5
+"negative regulation of sequestering of calcium ion [GO_BP]",2.11038579179631,2.32847504963065,0,0,0,0,0,5
+"negative regulation of receptor signaling pathway via JAK-STAT [GO_BP]",1.99191733447261,2.34757292184527,0,0,0,0,0,5
+"regulation of T cell differentiation [GO_BP]",1.98992984414494,2.26862180573917,0,0,0,0,0,5
+"regulation of sequestering of calcium ion [GO_BP]",2.07285623216815,2.29987434424312,0,0,0,0,0,5
+"sequestering of calcium ion [GO_BP]",2.03601764282134,2.27698534607162,0,0,0,0,0,5
+"negative regulation of T cell activation [GO_BP]",1.81656414871314,2.11463577654482,0,0,0,0,0,5
+"response to interferon-alpha [GO_BP]",1.93869888196167,2.310637752751,0,0,0,0,0,5
+"negative regulation of receptor signaling pathway via STAT [GO_BP]",1.8900815934226,2.27703899065846,0,0,0,0,0,5
+"hematopoietic progenitor cell differentiation [GO_BP]",2.29102406472937,1.76703379859077,0,0,0,0,0,5
+"calcium ion transmembrane import into cytosol [GO_BP]",2.2154588887496,1.7237867144259,0,0,0,0,0,5
+"regulation of receptor signaling pathway via STAT [GO_BP]",2.18160730499339,1.94754611058129,0,0,0,0,0,5
+"regulation of receptor signaling pathway via JAK-STAT [GO_BP]",2.39068680708329,2.09011029250817,0,0,0,0,0,5
+"positive regulation of lymphocyte differentiation [GO_BP]",2.26311523062697,2.07295399160974,0,0,0,0,0,5
+"regulation of lymphocyte differentiation [GO_BP]",1.57682960247963,1.94754611058129,0,0,0,0,0,5
+"negative regulation of leukocyte cell-cell adhesion [GO_BP]",1.60626949732882,1.94754611058129,0,0,0,0,0,5
+"toll-like receptor signaling pathway [GO_BP]",1.36377326197639,2.24212211737727,0,0,0,0,0,5
+"interferon-beta production [GO_BP]",1.37696968026528,2.2630909239731,0,0,0,0,0,5
+"regulation of interferon-beta production [GO_BP]",1.37696968026528,2.2630909239731,0,0,0,0,0,5
+"Neutrophil degranulation [Reactome]",1.49450807394439,2.27749521772551,0,0,0,0,0,5
+"movement in host [GO_BP]",1.60626949732882,2.34391059525316,0,0,0,0,0,5
+"positive regulation of T cell proliferation [GO_BP]",2.04979135993096,3.12759999816626,0,0,0,0,0,5
+"Cell adhesion molecule (CAM) interaction - Mus musculus (house mouse) [KEGG]",1.77807827445286,2.67863118943538,0,0,0,0,0,5
+"Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell [Reactome]",1.44624713338828,2.86365776342169,0,0,0,0,0,5
+"response to exogenous dsRNA [GO_BP]",1.74731404086451,2.1621801254746,0,1.93241818598991,0,0,0,5
+"positive regulation of viral process [GO_BP]",2.04808385935218,1.41262783547054,0,1.56904449313524,0,0,0,5
+"regulation of DNA-binding transcription factor activity [GO_BP]",3.88638341789132,2.31280390419202,0,1.59183040087535,0,0,0,5
+"Chemokine signaling pathway - Mus musculus (house mouse) [KEGG]",2.80283602807798,1.47375395546722,0,1.7361428439041,0,0,0,5
+"response to dsRNA [GO_BP]",3.05428111223021,1.91942621701136,0,1.83764428384083,0,0,0,5
+"regulation of defense response to virus by host [GO_BP]",2.89397883806574,1.83164081489055,0,1.79064856221608,0,0,0,5
+"regulation of hemopoiesis [GO_BP]",4.22574627084258,2.2685874203219,1.54494383389938,0,0,0,0,5
+"lymphocyte differentiation [GO_BP]",4.80217394312612,1.60278580759947,0,0,0,0,0,5
+"mononuclear cell differentiation [GO_BP]",5.16869660950889,1.41643101088508,0,0,0,0,0,5
+"regulation of autophagy [GO_BP]",4.40040373571553,1.30792475411237,0,0,0,0,0,5
+"adhesion of symbiont to host [GO_BP]",4.37534878959761,1.76895189210162,0,0,0,0,0,5
+"negative regulation of type I interferon production [GO_BP]",4.4943577577946,1.76703379859077,0,0,0,0,0,5
+"positive regulation of T cell differentiation [GO_BP]",2.6316440708854,2.2866675844128,0,0,0,0,0,5
+"Nicotinamide salvaging [Reactome]",3.23639172287797,2.22597345552906,0,0,0,0,0,5
+"biological process involved in symbiotic interaction [GO_BP]",2.96298250346101,2.33537506944349,0,0,0,0,0,5
+"Measles - Mus musculus (house mouse) [KEGG]",2.85880805237022,1.92983717385056,0,0,0,0,0,5
+"cellular senescence [GO_BP]",2.72186396595919,1.87801457032683,0,0,0,0,0,5
+"regulation of Fc receptor mediated stimulatory signaling pathway [GO_BP]",2.84200963523283,1.65378731085589,0,0,0,0,0,5
+"negative regulation of NLRP3 inflammasome complex assembly [GO_BP]",2.84200963523283,1.65378731085589,0,0,0,0,0,5
+"regulation of cellular senescence [GO_BP]",2.73321616054588,1.76703379859077,0,0,0,0,0,5
+"Viral life cycle - HIV-1 - Mus musculus (house mouse) [KEGG]",2.75466374714026,1.69830318314892,0,0,0,0,0,5
+"negative regulation of lymphocyte activation [GO_BP]",2.74264937329589,1.7237867144259,0,0,0,0,0,5
+"postsynaptic signal transduction [GO_BP]",2.55459879755457,1.66889846262415,0,0,0,0,0,5
+"Fc receptor mediated stimulatory signaling pathway [GO_BP]",2.54277063417518,1.51340886755958,0,0,0,0,0,5
+"cellular response to dsRNA [GO_BP]",2.54277063417518,1.51340886755958,0,0,0,0,0,5
+"positive regulation of canonical NF-kappaB signal transduction [GO_BP]",2.87438109491849,1.3743348164315,0,0,0,0,0,5
+"negative regulation of inflammasome-mediated signaling pathway [GO_BP]",2.73007886637075,1.60278580759947,0,0,0,0,0,5
+"negative regulation of leukocyte activation [GO_BP]",2.73366974642127,1.47238793800922,0,0,0,0,0,5
+"dendritic cell antigen processing and presentation [GO_BP]",3.39151157419201,1.90391855372944,0,0,0,0,0,5
+"CAMKK-AMPK signaling cascade [GO_BP]",3.39151157419201,1.90391855372944,0,0,0,0,0,5
+"T cell differentiation [GO_BP]",3.59782594688023,1.7072750860179,0,0,0,0,0,5
+"maintenance of location [GO_BP]",3.5805008280596,1.70062401207123,0,0,0,0,0,5
+"Toxoplasmosis - Mus musculus (house mouse) [KEGG]",3.42686757693067,1.57893116928396,0,0,0,0,0,5
+"regulation of protein-containing complex assembly [GO_BP]",3.36279294227223,1.74240028565101,0,0,0,0,0,5
+"regulation of protein complex stability [GO_BP]",3.08745498996615,1.76895189210162,0,0,0,0,0,5
+"calmodulin dependent kinase signaling pathway [GO_BP]",3.08745498996615,1.76895189210162,0,0,0,0,0,5
+"defense response to Gram-negative bacterium [GO_BP]",3.17356848052958,1.5829469870079,0,0,0,0,0,5
+"positive regulation of leukocyte differentiation [GO_BP]",3.25771586070307,1.46722095918032,0,0,0,0,0,5
+"positive regulation of hemopoiesis [GO_BP]",3.25771586070307,1.46722095918032,0,0,0,0,0,5
+"positive regulation of autophagy of mitochondrion [GO_BP]",3.90151882970071,1.60278580759947,0,0,0,0,0,5
+"xenophagy [GO_BP]",3.77128382125874,1.55444827066729,0,0,0,0,0,5
+"negative regulation of cytokine production [GO_BP]",3.84321618885527,1.45762738416089,0,0,0,0,0,5
+"maintenance of location in cell [GO_BP]",3.95405322781836,1.90733829153713,0,0,0,0,0,5
+"positive regulation of DNA-binding transcription factor activity [GO_BP]",3.90194112208138,2.29029377095681,0,0,0,0,0,5
+"positive regulation of pattern recognition receptor signaling pathway [GO_BP]",4.17979093334104,2.24212211737727,0,0,0,0,0,5
+"regulation of granulocyte chemotaxis [GO_BP]",1.63767818104548,0,2.45156237491741,1.62487633861932,0,0,0,7
+"protein folding [GO_BP]",1.31087135749147,0,2.39642569720301,1.73323718094968,0,0,0,7
+"regulation of leukocyte migration [GO_BP]",2.2325531551051,0,2.17194910313145,1.49500617609183,0,0,0,7
+"leukocyte migration [GO_BP]",2.00389016918559,0,1.71501314638666,1.71820679482216,0,0,0,7
+"regulation of erythrocyte differentiation [GO_BP]",1.89575214110988,0,1.71496534929992,1.71820679482216,0,0,0,7
+"lipopolysaccharide-mediated signaling pathway [GO_BP]",2.95006333703062,1.49053329456257,1.58869964153092,1.60410060697066,1.45697927085006,0,0,7
+"regulation of myeloid cell differentiation [GO_BP]",3.07007589383411,0,2.22910316954744,1.57779695393706,1.50626299363184,0,0,7
+"acute inflammatory response [GO_BP]",3.49425399416601,0,1.35266302232283,2.22868976818152,0,0,0,7
+"positive regulation of inflammatory response [GO_BP]",3.4084170869331,1.3470575669816,1.89004102050954,1.89026003395446,0,0,0,7
+"regulation of myeloid leukocyte mediated immunity [GO_BP]",3.29761110134215,1.34013735666989,1.48006985775415,1.5110364541613,0,0,0,7
+"positive regulation of phagocytosis [GO_BP]",2.41906307932522,0,1.44587721951252,0,0,0,0,7
+"protein homooligomerization [GO_BP]",1.40619256373492,0,1.77983062278465,0,0,0,0,7
+"regulation of peptidyl-tyrosine phosphorylation [GO_BP]",1.33643890396119,0,1.43217180846666,0,0,0,0,7
+"chemotaxis [GO_BP]",1.3610481431578,0,1.60750956583228,0,0,0,0,7
+"taxis [GO_BP]",1.3610481431578,0,1.60750956583228,0,0,0,0,7
+"protein complex oligomerization [GO_BP]",1.47433713849559,0,2.17713627341487,0,0,0,0,7
+"cell chemotaxis [GO_BP]",1.6219496692204,0,1.94010043784273,0,0,0,0,7
+"positive regulation of peptidyl-tyrosine phosphorylation [GO_BP]",1.73419051838499,0,1.72889087162852,0,0,0,0,7
+"myeloid cell differentiation [GO_BP]",4.40294198539476,0,1.49016520563225,0,0,0,1.46484803798383,7
+"regulation of endocytosis [GO_BP]",2.46920702359576,0,1.85854465584611,0,0,0,1.96615072624667,7
+"positive regulation of endocytosis [GO_BP]",2.56937865635193,0,1.68342410485621,0,0,0,1.7343431515632,7
+"protein tetramerization [GO_BP]",0,1.32335167540303,1.47128278765591,0,0,0,0,7
+"protein maturation [GO_BP]",0,0,1.3996079227659,0,0,0,0,7
+"activation of cysteine-type endopeptidase activity involved in apoptotic process [GO_BP]",0,0,1.45041504634419,0,0,0,0,7
+"membrane depolarization [GO_BP]",0,0,1.44587721951252,0,0,0,0,7
+"regulation of cysteine-type endopeptidase activity involved in apoptotic process [GO_BP]",0,0,1.60158852415284,0,0,0,0,7
+"regulation of chemotaxis [GO_BP]",0,0,1.52720940349083,0,0,0,0,7
+"regulation of cysteine-type endopeptidase activity [GO_BP]",0,0,1.48698880288462,0,0,0,0,7
+"protein refolding [GO_BP]",0,0,2.11367253914053,0,0,0,0,7
+"negative regulation of locomotion [GO_BP]",0,0,1.79860012381458,0,0,0,0,7
+"'de novo' post-translational protein folding [GO_BP]",0,0,1.8481360254879,0,0,0,0,7
+"'de novo' protein folding [GO_BP]",0,0,1.83260273692872,0,0,0,0,7
+"regulation of leukocyte chemotaxis [GO_BP]",0,0,1.98034213575324,0,0,0,0,7
+"negative regulation of cell migration [GO_BP]",0,0,1.92507630466298,0,0,0,0,7
+"chaperone cofactor-dependent protein refolding [GO_BP]",0,0,1.91625373569478,0,0,0,0,7
+"negative regulation of cell motility [GO_BP]",0,0,1.89004102050954,0,0,0,0,7
+"positive regulation of chemotaxis [GO_BP]",0,0,1.86420645238016,0,0,0,0,7
+"chaperone-mediated protein folding [GO_BP]",0,0,2.39236876793722,1.56904449313524,0,0,0,7
+"positive regulation of leukocyte chemotaxis [GO_BP]",0,0,2.17310426926589,1.31638354383175,0,0,0,7
+"regulation of neutrophil migration [GO_BP]",0,0,1.65633260377889,1.66145392997405,0,0,0,7
+"negative regulation of cell projection organization [GO_BP]",0,0,1.50086270522195,1.53484781376051,0,0,0,7
+"positive regulation of neutrophil chemotaxis [GO_BP]",0,0,2.01727595989718,1.99236562138123,0,0,0,7
+"positive regulation of granulocyte chemotaxis [GO_BP]",0,0,1.99432826036118,1.9787501493158,0,0,0,7
+"regulation of neutrophil chemotaxis [GO_BP]",0,0,1.8864413533602,1.88858038813209,0,0,0,7
+"positive regulation of neutrophil migration [GO_BP]",0,0,1.81757483691117,1.81951212904845,0,0,0,7
+"negative regulation of neuron projection development [GO_BP]",0,0,1.75888391891573,1.76290191012921,0,0,0,7
+"negative regulation of epithelial cell proliferation [GO_BP]",0,0,0,1.84648601347151,0,0,0,7
+"Th1 and Th2 cell differentiation - Mus musculus (house mouse) [KEGG]",0,0,0,1.3575086553472,0,0,0,7
+"response to interleukin-1 [GO_BP]",0,0,0,1.34901560226108,0,0,0,7
+"positive regulation of fibroblast proliferation [GO_BP]",0,0,0,1.5439489268428,0,0,0,7
+"cellular response to interleukin-1 [GO_BP]",0,0,0,1.45026552539028,0,0,0,7
+"angiogenesis [GO_BP]",1.35686616874263,0,0,1.31638354383175,0,0,0,7
+"cellular response to tumor necrosis factor [GO_BP]",1.96761332607666,0,0,1.81951212904845,0,0,0,7
+"response to tumor necrosis factor [GO_BP]",1.65490118809074,0,0,1.70756618777896,0,0,0,7
+"positive regulation of autophagy [GO_BP]",2.7648635223063,0,0,0,0,0,0,8
+"positive regulation of cell development [GO_BP]",2.70732903614049,0,0,0,0,0,0,8
+"amide transport [GO_BP]",2.70476036655624,0,0,0,0,0,0,8
+"regulation of lipopolysaccharide-mediated signaling pathway [GO_BP]",2.70476036655624,0,0,0,0,0,0,8
+"protein localization to nucleus [GO_BP]",2.70476036655624,0,0,0,0,0,0,8
+"positive regulation of protein-containing complex assembly [GO_BP]",2.73366974642127,0,0,0,0,0,0,8
+"negative regulation of inflammatory response [GO_BP]",2.72495000164002,0,0,0,0,0,0,8
+"negative regulation of leukocyte proliferation [GO_BP]",2.57108086188233,0,0,0,0,0,0,8
+"myeloid cell homeostasis [GO_BP]",2.64960297379864,0,0,0,0,0,0,8
+"positive regulation of defense response to virus by host [GO_BP]",2.64104780544036,0,0,0,0,0,0,8
+"macroautophagy [GO_BP]",2.86158932080083,0,0,0,0,0,0,8
+"sarcoplasmic reticulum calcium ion transport [GO_BP]",2.90916308556108,0,0,0,0,0,0,8
+"protein-containing complex disassembly [GO_BP]",2.8980222223464,0,0,0,0,0,0,8
+"regulation of xenophagy [GO_BP]",3.08745498996615,0,0,0,0,0,0,8
+"positive regulation of xenophagy [GO_BP]",3.08745498996615,0,0,0,0,0,0,8
+"positive regulation of NF-kappaB transcription factor activity [GO_BP]",3.0192764424489,0,0,0,0,0,0,8
+"calcium-mediated signaling [GO_BP]",2.97349947639046,0,0,0,0,0,0,8
+"homeostasis of number of cells [GO_BP]",2.96298250346101,0,0,0,0,0,0,8
+"positive regulation of mitophagy [GO_BP]",3.23615462241698,0,0,0,0,0,0,8
+"Transcriptional misregulation in cancer - Mus musculus (house mouse) [KEGG]",3.18410826665824,0,0,0,0,0,0,8
+"regulation of chromatin binding [GO_BP]",3.15068434212377,0,0,0,0,0,0,8
+"FCGR activation [Reactome]",3.34262261581867,0,0,0,0,0,0,8
+"cell activation involved in immune response [GO_BP]",3.30652099476528,0,0,0,0,0,0,8
+"B cell activation [GO_BP]",3.44453590214387,0,0,0,0,0,0,8
+"positive regulation of cellular catabolic process [GO_BP]",3.39151157419201,0,0,0,0,0,0,8
+"leukocyte activation involved in immune response [GO_BP]",3.37925114932231,0,0,0,0,0,0,8
+"response to endoplasmic reticulum stress [GO_BP]",3.72732477804234,0,0,0,0,0,0,8
+"regulation of interleukin-1 production [GO_BP]",3.77128382125874,0,0,0,0,0,0,8
+"macrophage activation [GO_BP]",3.77128382125874,0,0,0,0,0,0,8
+"regulation of leukocyte differentiation [GO_BP]",3.51411235087226,0,0,0,0,0,0,8
+"positive regulation of MAPK cascade [GO_BP]",3.50343584297819,0,0,0,0,0,0,8
+"nucleotide-binding oligomerization domain containing 2 signaling pathway [GO_BP]",3.65521142884401,0,0,0,0,0,0,8
+"Tuberculosis - Mus musculus (house mouse) [KEGG]",3.58773161627525,0,0,0,0,0,0,8
+"regulation of interleukin-1 beta production [GO_BP]",3.56654384405767,0,0,0,0,0,0,8
+"regulation of inflammatory response [GO_BP]",8,0,0,0,0,0,0,8
+"cellular response to virus [GO_BP]",5.65040874558466,0,0,0,0,0,0,8
+"Lipid and atherosclerosis - Mus musculus (house mouse) [KEGG]",4.36578787499236,0,0,0,0,0,0,8
+"interleukin-1 production [GO_BP]",4.35064410099031,0,0,0,0,0,0,8
+"nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway [GO_BP]",4.34327137700614,0,0,0,0,0,0,8
+"positive regulation of interleukin-1 production [GO_BP]",4.47626019372978,0,0,0,0,0,0,8
+"nucleotide-binding oligomerization domain containing signaling pathway [GO_BP]",4.44968208388187,0,0,0,0,0,0,8
+"pyroptosis [GO_BP]",4.1964941903764,0,0,0,0,0,0,8
+"autophagy [GO_BP]",4.20026524667565,0,0,0,0,0,0,8
+"process utilizing autophagic mechanism [GO_BP]",4.20026524667565,0,0,0,0,0,0,8
+"interleukin-1 beta production [GO_BP]",4.16065548761366,0,0,0,0,0,0,8
+"myeloid leukocyte activation [GO_BP]",4.1449406555354,0,0,0,0,0,0,8
+"positive regulation of hydrolase activity [GO_BP]",3.91441926506311,0,0,0,0,0,0,8
+"positive regulation of interleukin-1 beta production [GO_BP]",4.00530013807692,0,0,0,0,0,0,8
+"Osteoclast differentiation - Mus musculus (house mouse) [KEGG]",3.96901349881723,0,0,0,0,0,0,8
+"Fc gamma R-mediated phagosome formation - Mus musculus (house mouse) [KEGG]",3.96901349881723,0,0,0,0,0,0,8
+"neuroinflammatory response [GO_BP]",3.01954908789239,0,0,0,1.32866323664272,0,0,8
+"cellular component disassembly [GO_BP]",3.20948919057193,0,0,0,1.50626299363184,0,0,8
+"myeloid leukocyte differentiation [GO_BP]",3.43822633765238,0,0,0,1.41991526305503,0,0,8
+"regulation of myeloid leukocyte differentiation [GO_BP]",2.89936247196181,0,0,0,1.72095286174281,0,0,8
+"glial cell activation [GO_BP]",2.38416520814421,0,0,0,1.50145817905078,0,0,8
+"microglial cell activation [GO_BP]",2.73321616054588,0,0,0,1.53847385057991,0,0,8
+"leukocyte activation involved in inflammatory response [GO_BP]",2.60271198249686,0,0,0,1.50822181639152,0,0,8
+"negative regulation of cell activation [GO_BP]",2.40804297192288,1.34013735666989,0,0,2.0905363372623,0,0,8
+"regulation of interleukin-10 production [GO_BP]",1.66312000484144,0,0,0,1.49217270182461,0,0,8
+"interleukin-10 production [GO_BP]",1.58346992289022,0,0,0,1.45843903881408,0,0,8
+"regulation of platelet activation [GO_BP]",2.12139848149971,0,0,0,1.59308417489004,0,0,8
+"positive regulation of myeloid leukocyte differentiation [GO_BP]",2.07684440234174,0,0,0,1.41991526305503,0,0,8
+"maintenance of protein location in cell [GO_BP]",1.32343178354522,0,0,0,0,0,0,8
+"positive regulation of mitochondrial fission [GO_BP]",1.32438397366979,0,0,0,0,0,0,8
+"polarized epithelial cell differentiation [GO_BP]",1.32438397366979,0,0,0,0,0,0,8
+"miRNA processing [GO_BP]",1.32438397366979,0,0,0,0,0,0,8
+"positive regulation of cellular extravasation [GO_BP]",1.32438397366979,0,0,0,0,0,0,8
+"regulation of exocytosis [GO_BP]",1.32415678293709,0,0,0,0,0,0,8
+"positive regulation of organelle organization [GO_BP]",1.32415678293709,0,0,0,0,0,0,8
+"microtubule polymerization or depolymerization [GO_BP]",1.31489359587839,0,0,0,0,0,0,8
+"immune response-regulating cell surface receptor signaling pathway [GO_BP]",1.31087135749147,0,0,0,0,0,0,8
+"negative regulation of response to endoplasmic reticulum stress [GO_BP]",1.37696968026528,0,0,0,0,0,0,8
+"antiviral innate immune response [GO_BP]",1.37696968026528,0,0,0,0,0,0,8
+"granulocyte differentiation [GO_BP]",1.37696968026528,0,0,0,0,0,0,8
+"mitophagy [GO_BP]",1.37696968026528,0,0,0,0,0,0,8
+"regulation of metal ion transport [GO_BP]",1.37696968026528,0,0,0,0,0,0,8
+"regulation of antigen receptor-mediated signaling pathway [GO_BP]",1.37696968026528,0,0,0,0,0,0,8
+"immune response-activating cell surface receptor signaling pathway [GO_BP]",1.37696968026528,0,0,0,0,0,0,8
+"regulation of interleukin-8 production [GO_BP]",1.37696968026528,0,0,0,0,0,0,8
+"ERK1 and ERK2 cascade [GO_BP]",1.36791290832556,0,0,0,0,0,0,8
+"positive regulation of apoptotic signaling pathway [GO_BP]",1.3610481431578,0,0,0,0,0,0,8
+"regulatory ncRNA processing [GO_BP]",1.36377326197639,0,0,0,0,0,0,8
+"RNA stabilization [GO_BP]",1.36377326197639,0,0,0,0,0,0,8
+"fibroblast migration [GO_BP]",1.36377326197639,0,0,0,0,0,0,8
+"interleukin-8 production [GO_BP]",1.36377326197639,0,0,0,0,0,0,8
+"miRNA metabolic process [GO_BP]",1.36444057552901,0,0,0,0,0,0,8
+"regulation of non-canonical Wnt signaling pathway [GO_BP]",1.36482107823585,0,0,0,0,0,0,8
+"cellular response to interleukin-17 [GO_BP]",1.36482107823585,0,0,0,0,0,0,8
+"podosome assembly [GO_BP]",1.36482107823585,0,0,0,0,0,0,8
+"establishment of apical/basal cell polarity [GO_BP]",1.36482107823585,0,0,0,0,0,0,8
+"Sertoli cell differentiation [GO_BP]",1.36482107823585,0,0,0,0,0,0,8
+"nuclear transport [GO_BP]",1.34955772918007,0,0,0,0,0,0,8
+"regulation of protein stability [GO_BP]",1.34955772918007,0,0,0,0,0,0,8
+"nucleocytoplasmic transport [GO_BP]",1.34955772918007,0,0,0,0,0,0,8
+"G1/S transition of mitotic cell cycle [GO_BP]",1.35779920948308,0,0,0,0,0,0,8
+"response to ischemia [GO_BP]",1.35548507630689,0,0,0,0,0,0,8
+"positive regulation of cellular component biogenesis [GO_BP]",1.42518813795202,0,0,0,0,0,0,8
+"regulation of stress-activated protein kinase signaling cascade [GO_BP]",1.4219791528269,0,0,0,0,0,0,8
+"regulation of binding [GO_BP]",1.40075828169213,0,0,0,0,0,0,8
+"positive regulation of protein serine/threonine kinase activity [GO_BP]",1.39675819629685,0,0,0,0,0,0,8
+"peptidyl-serine modification [GO_BP]",1.41309592331215,0,0,0,0,0,0,8
+"Fc epsilon RI signaling pathway - Mus musculus (house mouse) [KEGG]",1.40521333339167,0,0,0,0,0,0,8
+"negative regulation of B cell proliferation [GO_BP]",1.40620992334023,0,0,0,0,0,0,8
+"response to growth hormone [GO_BP]",1.40620992334023,0,0,0,0,0,0,8
+"regulation of cellular extravasation [GO_BP]",1.40619256373492,0,0,0,0,0,0,8
+"positive regulation of calcium ion transmembrane transporter activity [GO_BP]",1.40619256373492,0,0,0,0,0,0,8
+"regulation of macrophage cytokine production [GO_BP]",1.44047256799979,0,0,0,0,0,0,8
+"positive T cell selection [GO_BP]",1.44047256799979,0,0,0,0,0,0,8
+"hemostasis [GO_BP]",1.45119749628635,0,0,0,0,0,0,8
+"protein targeting [GO_BP]",1.44521124633617,0,0,0,0,0,0,8
+"Growth hormone receptor signaling [Reactome]",1.44624713338828,0,0,0,0,0,0,8
+"Regulation of actin dynamics for phagocytic cup formation [Reactome]",1.44624713338828,0,0,0,0,0,0,8
+"Erythropoietin activates RAS [Reactome]",1.44624713338828,0,0,0,0,0,0,8
+"Th17 cell differentiation - Mus musculus (house mouse) [KEGG]",1.46690222458137,0,0,0,0,0,0,8
+"coagulation [GO_BP]",1.46536116858489,0,0,0,0,0,0,8
+"CD8-positive, alpha-beta T cell differentiation [GO_BP]",1.46110497833039,0,0,0,0,0,0,8
+"positive regulation of stress-activated MAPK cascade [GO_BP]",1.46278595290534,0,0,0,0,0,0,8
+"vacuole organization [GO_BP]",1.46278595290534,0,0,0,0,0,0,8
+"positive regulation of myeloid leukocyte cytokine production involved in immune response [GO_BP]",1.47348519075303,0,0,0,0,0,0,8
+"autophagy of mitochondrion [GO_BP]",1.47463079419898,0,0,0,0,0,0,8
+"mitochondrion disassembly [GO_BP]",1.47463079419898,0,0,0,0,0,0,8
+"regulation of peptidase activity [GO_BP]",1.48183316432655,0,0,0,0,0,0,8
+"regulation of mononuclear cell migration [GO_BP]",1.47771429463419,0,0,0,0,0,0,8
+"post-transcriptional regulation of gene expression [GO_BP]",1.47763924663786,0,0,0,0,0,0,8
+"Acute myeloid leukemia - Mus musculus (house mouse) [KEGG]",1.73699607248053,0,0,0,0,0,0,8
+"C-terminal protein amino acid modification [GO_BP]",1.70394056869901,0,0,0,0,0,0,8
+"postsynapse to nucleus signaling pathway [GO_BP]",1.70394056869901,0,0,0,0,0,0,8
+"positive regulation of kinase activity [GO_BP]",1.69626141100901,0,0,0,0,0,0,8
+"intracellular monoatomic ion homeostasis [GO_BP]",1.69604079077359,0,0,0,0,0,0,8
+"mononuclear cell migration [GO_BP]",1.60049306817382,0,0,0,0,0,0,8
+"calcium ion transport [GO_BP]",1.60626949732882,0,0,0,0,0,0,8
+"regulation of interleukin-12 production [GO_BP]",1.60833178333322,0,0,0,0,0,0,8
+"cardiac muscle cell contraction [GO_BP]",1.60833178333322,0,0,0,0,0,0,8
+"regulation of calcium ion transmembrane transport [GO_BP]",1.62656691114721,0,0,0,0,0,0,8
+"cellular response to interleukin-4 [GO_BP]",1.61818807220643,0,0,0,0,0,0,8
+"monoatomic cation homeostasis [GO_BP]",1.61376082171624,0,0,0,0,0,0,8
+"regulation of vacuole organization [GO_BP]",1.63767818104548,0,0,0,0,0,0,8
+"regulation of monocyte differentiation [GO_BP]",1.63734597718987,0,0,0,0,0,0,8
+"organelle disassembly [GO_BP]",1.65239797252134,0,0,0,0,0,0,8
+"organic cyclic compound catabolic process [GO_BP]",1.64754463404906,0,0,0,0,0,0,8
+"cellular response to unfolded protein [GO_BP]",1.64699416338691,0,0,0,0,0,0,8
+"PD-L1 expression and PD-1 checkpoint pathway in cancer - Mus musculus (house mouse) [KEGG]",1.67884325150715,0,0,0,0,0,0,8
+"natural killer cell differentiation [GO_BP]",1.65702481846975,0,0,0,0,0,0,8
+"negative regulation of microtubule depolymerization [GO_BP]",1.65702481846975,0,0,0,0,0,0,8
+"cellular response to peptide [GO_BP]",1.65917903145058,0,0,0,0,0,0,8
+"negative regulation of leukocyte differentiation [GO_BP]",1.65871741782265,0,0,0,0,0,0,8
+"regulation of response to endoplasmic reticulum stress [GO_BP]",1.66674988286983,0,0,0,0,0,0,8
+"microtubule depolymerization [GO_BP]",1.66312000484144,0,0,0,0,0,0,8
+"intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress [GO_BP]",1.5028481541782,0,0,0,0,0,0,8
+"AGE-RAGE signaling pathway in diabetic complications - Mus musculus (house mouse) [KEGG]",1.49681249536558,0,0,0,0,0,0,8
+"Prolactin signaling pathway - Mus musculus (house mouse) [KEGG]",1.49137581717942,0,0,0,0,0,0,8
+"establishment of protein localization to vacuole [GO_BP]",1.52957956286532,0,0,0,0,0,0,8
+"positive regulation of extrinsic apoptotic signaling pathway [GO_BP]",1.52957956286532,0,0,0,0,0,0,8
+"blood coagulation [GO_BP]",1.51396190887483,0,0,0,0,0,0,8
+"regulation of RIG-I signaling pathway [GO_BP]",1.51898257117518,0,0,0,0,0,0,8
+"regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum [GO_BP]",1.51898257117518,0,0,0,0,0,0,8
+"regulation of protein depolymerization [GO_BP]",1.51898257117518,0,0,0,0,0,0,8
+"peptidyl-serine phosphorylation [GO_BP]",1.51898257117518,0,0,0,0,0,0,8
+"positive regulation of GTPase activity [GO_BP]",1.55777278755869,0,0,0,0,0,0,8
+"interleukin-12 production [GO_BP]",1.55777278755869,0,0,0,0,0,0,8
+"monoatomic ion homeostasis [GO_BP]",1.55777278755869,0,0,0,0,0,0,8
+"regulation of ERK1 and ERK2 cascade [GO_BP]",1.55151072604296,0,0,0,0,0,0,8
+"negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway [GO_BP]",1.54829852739896,0,0,0,0,0,0,8
+"negative regulation of CD4-positive, alpha-beta T cell activation [GO_BP]",1.54829852739896,0,0,0,0,0,0,8
+"regulation of fibroblast proliferation [GO_BP]",1.58596109014661,0,0,0,0,0,0,8
+"regulation of mitochondrial fission [GO_BP]",1.58346992289022,0,0,0,0,0,0,8
+"response to interleukin-4 [GO_BP]",1.58346992289022,0,0,0,0,0,0,8
+"regulation of microtubule depolymerization [GO_BP]",1.58346992289022,0,0,0,0,0,0,8
+"positive regulation of protein-containing complex disassembly [GO_BP]",1.58346992289022,0,0,0,0,0,0,8
+"regulation of calcium ion transport [GO_BP]",1.56781202414857,0,0,0,0,0,0,8
+"regulation of autophagosome maturation [GO_BP]",1.57765899631303,0,0,0,0,0,0,8
+"establishment of epithelial cell apical/basal polarity [GO_BP]",1.57765899631303,0,0,0,0,0,0,8
+"Sertoli cell development [GO_BP]",1.57765899631303,0,0,0,0,0,0,8
+"selective autophagy [GO_BP]",2.42104200472752,0,0,0,0,0,0,8
+"regulation of autophagy of mitochondrion [GO_BP]",2.45384746979498,0,0,0,0,0,0,8
+"cellular response to organic cyclic compound [GO_BP]",2.44197314153473,0,0,0,0,0,0,8
+"RNA catabolic process [GO_BP]",2.39736506761443,0,0,0,0,0,0,8
+"positive regulation of interleukin-6 production [GO_BP]",2.39599235451694,0,0,0,0,0,0,8
+"positive regulation of myeloid cell differentiation [GO_BP]",2.39599235451694,0,0,0,0,0,0,8
+"phagocytosis [GO_BP]",2.39364410670673,0,0,0,0,0,0,8
+"regulation of interleukin-6 production [GO_BP]",2.39079396929203,0,0,0,0,0,0,8
+"regulation of protein-containing complex disassembly [GO_BP]",2.35542745235449,0,0,0,0,0,0,8
+"regulation of extrinsic apoptotic signaling pathway [GO_BP]",2.35361224399738,0,0,0,0,0,0,8
+"regulation of mitophagy [GO_BP]",2.37062256472693,0,0,0,0,0,0,8
+"cellular response to organonitrogen compound [GO_BP]",2.36395841730719,0,0,0,0,0,0,8
+"platelet activation [GO_BP]",2.18160730499339,0,0,0,0,0,0,8
+"negative regulation of catabolic process [GO_BP]",2.17214171330534,0,0,0,0,0,0,8
+"lymphocyte activation involved in immune response [GO_BP]",2.16558751190433,0,0,0,0,0,0,8
+"Cytokine Signaling in Immune system [Reactome]",2.1600604417787,0,0,0,0,0,0,8
+"regulation of cardiac muscle cell action potential [GO_BP]",2.15574742974305,0,0,0,0,0,0,8
+"release of sequestered calcium ion into cytosol by endoplasmic reticulum [GO_BP]",2.15574742974305,0,0,0,0,0,0,8
+"myeloid leukocyte mediated immunity [GO_BP]",2.14985681492818,0,0,0,0,0,0,8
+"mRNA catabolic process [GO_BP]",2.14383755836641,0,0,0,0,0,0,8
+"positive regulation of RIG-I signaling pathway [GO_BP]",2.14126933174168,0,0,0,0,0,0,8
+"regulation of phagocytosis [GO_BP]",2.19654027892429,0,0,0,0,0,0,8
+"extrinsic apoptotic signaling pathway [GO_BP]",2.20323473138889,0,0,0,0,0,0,8
+"establishment of protein localization to organelle [GO_BP]",2.20323473138889,0,0,0,0,0,0,8
+"response to peptide [GO_BP]",2.22132344799955,0,0,0,0,0,0,8
+"release of sequestered calcium ion into cytosol by sarcoplasmic reticulum [GO_BP]",2.22130708884378,0,0,0,0,0,0,8
+"positive regulation of macroautophagy [GO_BP]",2.23338450531216,0,0,0,0,0,0,8
+"regulated exocytosis [GO_BP]",2.2325531551051,0,0,0,0,0,0,8
+"autophagosome maturation [GO_BP]",2.26679228857467,0,0,0,0,0,0,8
+"interleukin-6 production [GO_BP]",2.25027193974121,0,0,0,0,0,0,8
+"Leishmaniasis - Mus musculus (house mouse) [KEGG]",2.3183656594816,0,0,0,0,0,0,8
+"positive regulation of catabolic process [GO_BP]",2.29102406472937,0,0,0,0,0,0,8
+"calcium ion transmembrane transport [GO_BP]",1.80835675132213,0,0,0,0,0,0,8
+"inorganic ion homeostasis [GO_BP]",1.80379343321638,0,0,0,0,0,0,8
+"establishment or maintenance of cell polarity [GO_BP]",1.80324046870427,0,0,0,0,0,0,8
+"leukocyte degranulation [GO_BP]",1.80045460857832,0,0,0,0,0,0,8
+"negative regulation of canonical NF-kappaB signal transduction [GO_BP]",1.79910565382267,0,0,0,0,0,0,8
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways [Reactome]",1.78848604360172,0,0,0,0,0,0,8
+"positive regulation of endopeptidase activity [GO_BP]",1.78514873261989,0,0,0,0,0,0,8
+"response to peptide hormone [GO_BP]",1.78509395070076,0,0,0,0,0,0,8
+"regulation of macrophage activation [GO_BP]",1.76568027575956,0,0,0,0,0,0,8
+"aromatic compound catabolic process [GO_BP]",1.77108716979162,0,0,0,0,0,0,8
+"intracellular monoatomic cation homeostasis [GO_BP]",1.77053230623352,0,0,0,0,0,0,8
+"negative regulation of cellular catabolic process [GO_BP]",1.88334145457343,0,0,0,0,0,0,8
+"cellular nitrogen compound catabolic process [GO_BP]",1.89156780743465,0,0,0,0,0,0,8
+"positive regulation of macrophage cytokine production [GO_BP]",1.8900815934226,0,0,0,0,0,0,8
+"toll-like receptor 3 signaling pathway [GO_BP]",1.8900815934226,0,0,0,0,0,0,8
+"positive regulation of macrophage activation [GO_BP]",1.8900815934226,0,0,0,0,0,0,8
+"regulation of macroautophagy [GO_BP]",1.90793378458366,0,0,0,0,0,0,8
+"autophagosome organization [GO_BP]",1.90793378458366,0,0,0,0,0,0,8
+"protein targeting to vacuole [GO_BP]",1.89575214110988,0,0,0,0,0,0,8
+"regulation of leukocyte degranulation [GO_BP]",1.89575214110988,0,0,0,0,0,0,8
+"Signaling by the B Cell Receptor (BCR) [Reactome]",1.8985293221357,0,0,0,0,0,0,8
+"regulation of B cell proliferation [GO_BP]",1.90144632262984,0,0,0,0,0,0,8
+"regulation of protein serine/threonine kinase activity [GO_BP]",1.86806384635341,0,0,0,0,0,0,8
+"heterocycle catabolic process [GO_BP]",1.86463248360799,0,0,0,0,0,0,8
+"mitochondrial fission [GO_BP]",1.86368831801824,0,0,0,0,0,0,8
+"microglia differentiation [GO_BP]",1.86326672010466,0,0,0,0,0,0,8
+"positive regulation of chromatin binding [GO_BP]",1.86326672010466,0,0,0,0,0,0,8
+"calcium ion homeostasis [GO_BP]",1.85613342192059,0,0,0,0,0,0,8
+"establishment of cell polarity [GO_BP]",1.85008481107999,0,0,0,0,0,0,8
+"endoplasmic reticulum calcium ion homeostasis [GO_BP]",1.83965696869259,0,0,0,0,0,0,8
+"regulation of apoptotic signaling pathway [GO_BP]",1.83596863105054,0,0,0,0,0,0,8
+"response to gamma radiation [GO_BP]",1.8284636923285,0,0,0,0,0,0,8
+"protein stabilization [GO_BP]",1.82259766390171,0,0,0,0,0,0,8
+"peptide transport [GO_BP]",1.8252439746722,0,0,0,0,0,0,8
+"second-messenger-mediated signaling [GO_BP]",1.8252439746722,0,0,0,0,0,0,8
+"import into nucleus [GO_BP]",2.00437688163792,0,0,0,0,0,0,8
+"Necroptosis - Mus musculus (house mouse) [KEGG]",1.98850107290937,0,0,0,0,0,0,8
+"negative regulation of intracellular signal transduction [GO_BP]",1.99198568378919,0,0,0,0,0,0,8
+"positive regulation of viral genome replication [GO_BP]",1.99191733447261,0,0,0,0,0,0,8
+"endolysosomal toll-like receptor signaling pathway [GO_BP]",1.96911126246436,0,0,0,0,0,0,8
+"protein depolymerization [GO_BP]",1.96911126246436,0,0,0,0,0,0,8
+"cardiac muscle cell action potential [GO_BP]",1.96911126246436,0,0,0,0,0,0,8
+"B cell receptor signaling pathway - Mus musculus (house mouse) [KEGG]",1.96046155509905,0,0,0,0,0,0,8
+"endoplasmic reticulum unfolded protein response [GO_BP]",1.95973811590793,0,0,0,0,0,0,8
+"regulation of lysosome organization [GO_BP]",1.94723789666321,0,0,0,0,0,0,8
+"erythrocyte homeostasis [GO_BP]",1.94851483159491,0,0,0,0,0,0,8
+"regulatory ncRNA-mediated gene silencing [GO_BP]",1.94851483159491,0,0,0,0,0,0,8
+"Natural killer cell mediated cytotoxicity - Mus musculus (house mouse) [KEGG]",1.92337960789053,0,0,0,0,0,0,8
+"positive regulation of stress-activated protein kinase signaling cascade [GO_BP]",1.93023249150771,0,0,0,0,0,0,8
+"intracellular calcium ion homeostasis [GO_BP]",2.05635513340268,0,0,0,0,0,0,8
+"Signaling by Interleukins [Reactome]",2.05365004429265,0,0,0,0,0,0,8
+"Fcgamma receptor (FCGR) dependent phagocytosis [Reactome]",2.05365004429265,0,0,0,0,0,0,8
+"B cell proliferation [GO_BP]",2.04311318065703,0,0,0,0,0,0,8
+"base conversion or substitution editing [GO_BP]",2.04644364893825,0,0,0,0,0,0,8
+"protein auto-ADP-ribosylation [GO_BP]",2.04644364893825,0,0,0,0,0,0,8
+"autophagosome assembly [GO_BP]",2.04979135993096,0,0,0,0,0,0,8
+"exocytosis [GO_BP]",2.04808385935218,0,0,0,0,0,0,8
+"maintenance of protein localization in organelle [GO_BP]",2.04808385935218,0,0,0,0,0,0,8
+"B cell differentiation [GO_BP]",2.08725538850986,0,0,0,0,0,0,8
+"stress-activated protein kinase signaling cascade [GO_BP]",2.08110654552744,0,0,0,0,0,0,8
+"ncRNA catabolic process [GO_BP]",2.08187220597516,0,0,0,0,0,0,8
+"ER-nucleus signaling pathway [GO_BP]",2.08187220597516,0,0,0,0,0,0,8
+"positive regulation of peptidase activity [GO_BP]",2.08187220597516,0,0,0,0,0,0,8
+"negative regulation of mononuclear cell proliferation [GO_BP]",2.08187220597516,0,0,0,0,0,0,8
+"protein import into nucleus [GO_BP]",2.08187220597516,0,0,0,0,0,0,8
+"erythrocyte differentiation [GO_BP]",2.12768734369188,0,0,0,0,0,0,8
+"nucleobase-containing compound catabolic process [GO_BP]",2.11090083057827,0,0,0,0,0,0,8
+"regulation of regulated secretory pathway [GO_BP]",2.1085933081568,0,0,0,0,0,0,8
+"negative regulation of lymphocyte proliferation [GO_BP]",2.1085933081568,0,0,0,0,0,0,8
+"defense response to Gram-positive bacterium [GO_BP]",8,6.78015861682475,2.20586072946622,3.0264976043755,0,0,0,1
+"type II interferon-mediated signaling pathway [GO_BP]",8,6.60880949841261,3.12869068612754,3.24554929232605,0,0,0,1
+"antigen processing and presentation of peptide antigen via MHC class I [GO_BP]",8,5.8204640524709,2.89508143155607,2.94316476904548,0,0,0,1
+"regulation of response to cytokine stimulus [GO_BP]",6.63477586684895,6.20448153471381,2.48117911164268,3.3443663436197,0,0,0,1
+"antigen processing and presentation of endogenous antigen [GO_BP]",6.49114476646933,6.52353607358635,3.12656450152301,3.21176009946618,0,0,0,1
+"antigen processing and presentation of endogenous peptide antigen [GO_BP]",6.81073663961572,6.72820581255791,3.13994771134123,3.2609622773109,0,0,0,1
+"antigen processing and presentation of endogenous peptide antigen via MHC class I [GO_BP]",6.81073663961572,6.72820581255791,3.13994771134123,3.2609622773109,0,0,0,1
+"negative regulation of innate immune response [GO_BP]",6.26417311344952,5.52699445615236,3.61646176674357,2.95274026462254,0,0,0,1
+"positive regulation of cytokine production [GO_BP]",6.82934718504957,6.20448153471381,3.03063981486577,2.46860722808103,0,0,0,1
+"negative regulation of immune response [GO_BP]",6.49114476646933,6.12825927493047,2.95442092434043,2.28388719841325,0,0,0,1
+"regulation of response to biotic stimulus [GO_BP]",8,8,3.66599142865403,3.72485808787485,1.41991526305503,0,0,1
+"regulation of innate immune response [GO_BP]",8,8,3.13994771134123,3.2609622773109,1.53847385057991,0,0,1
+"positive regulation of response to biotic stimulus [GO_BP]",8,8,2.70451345131997,3.3443663436197,0,0,0,1
+"antigen processing and presentation [GO_BP]",8,8,2.89508143155607,3.67532842596439,0,0,0,1
+"antigen processing and presentation of exogenous antigen [GO_BP]",8,8,3.61646176674357,3.67532842596439,0,0,0,1
+"antigen processing and presentation of exogenous peptide antigen [GO_BP]",8,8,3.61646176674357,3.67532842596439,0,0,0,1
+"response to type II interferon [GO_BP]",8,8,3.15916414879325,3.3443663436197,0,0,0,1
+"antigen processing and presentation of peptide antigen [GO_BP]",8,8,3.35195466443183,3.41082132365266,0,0,0,1
+"Herpes simplex virus 1 infection - Mus musculus (house mouse) [KEGG]",8,8,4.04137635894658,4.89694518039069,0,0,0,1
+"Antigen processing and presentation - Mus musculus (house mouse) [KEGG]",8,7.55919829158716,4.42024370601547,3.84788972337021,0,0,0,1
+"defense response to bacterium [GO_BP]",8,8,2.17713627341487,2.83554824816518,0,0,1.96615072624667,1
+"cell killing [GO_BP]",8,8,1.61200972482831,1.62487633861932,0,0,0,1
+"negative regulation of viral process [GO_BP]",8,8,2.17310426926589,2.15623305366757,0,0,0,1
+"positive regulation of defense response [GO_BP]",8,8,1.96171945888695,2.46860722808103,0,0,0,1
+"regulation of viral process [GO_BP]",8,8,1.72027084232246,2.36543438108335,0,0,0,1
+"positive regulation of innate immune response [GO_BP]",8,8,2.26795141162826,2.87688804140525,0,0,0,1
+"cellular response to type II interferon [GO_BP]",8,8,2.70395869636371,2.76282535558453,0,0,0,1
+"cytokine-mediated signaling pathway [GO_BP]",8,8,2.70451345131997,2.76327753106712,0,0,0,1
+"interferon-mediated signaling pathway [GO_BP]",7.26960520261647,8,3.12656450152301,2.28388719841325,0,0,0,1
+"negative regulation of immune system process [GO_BP]",8,7.43422242415803,2.95442092434043,1.90778201586962,0,0,0,1
+"negative regulation of response to biotic stimulus [GO_BP]",8,7.04097099795364,3.13994771134123,2.46860722808103,0,0,0,1
+"regulation of cell killing [GO_BP]",7.12279817000677,4.09984822275086,2.00591247557852,1.98180489973458,0,0,0,2
+"positive regulation of immune effector process [GO_BP]",7.05884823589359,3.4694669635822,2.52569136157123,1.9787501493158,0,0,0,2
+"Human immunodeficiency virus 1 infection - Mus musculus (house mouse) [KEGG]",5.92753803584528,4.41467279794705,1.59646306586613,1.59532779679727,0,0,0,2
+"negative regulation of cell killing [GO_BP]",6.22489597502293,4.31298642562447,1.86420645238016,1.86389402634815,0,0,0,2
+"positive regulation of cell adhesion [GO_BP]",6.38433684506317,4.01504113605561,1.90356228951734,1.35327386274334,0,0,0,2
+"leukocyte mediated cytotoxicity [GO_BP]",6.33142421210911,3.71619723619754,1.90698694869934,1.90778201586962,0,0,0,2
+"leukocyte mediated immunity [GO_BP]",7.9773379490143,4.30783925587919,1.60692819139349,1.61623607117348,1.64933055720292,0,0,2
+"negative regulation of defense response [GO_BP]",8,4.98391190208146,2.53419750883915,1.9787501493158,0,0,0,2
+"regulation of immune effector process [GO_BP]",8,4.35584795503492,2.20586072946622,1.62487633861932,0,0,0,2
+"Epstein-Barr virus infection - Mus musculus (house mouse) [KEGG]",4.87283821640107,7.10411237129567,1.59646306586613,2.32183393282791,0,0,0,2
+"adaptive immune response [GO_BP]",5.65927887169774,6.81292508345564,1.53892063054081,1.56904449313524,0,0,0,2
+"positive regulation of T cell activation [GO_BP]",5.68478972212152,6.87221306045693,2.07266363060458,2.04610009450077,0,0,0,2
+"positive regulation of leukocyte cell-cell adhesion [GO_BP]",5.75638517691257,6.52353607358635,1.97684511555102,1.97622825970441,0,0,0,2
+"regulation of leukocyte cell-cell adhesion [GO_BP]",5.48945039197315,5.91926854537588,1.66083438364427,1.6653433805425,0,0,0,2
+"positive regulation of leukocyte activation [GO_BP]",5.68478972212152,5.73622563217561,1.61200972482831,1.62487633861932,0,0,0,2
+"positive regulation of cell-cell adhesion [GO_BP]",5.92426391321259,5.82076362918361,1.83260273692872,1.83764428384083,0,0,0,2
+"leukocyte cell-cell adhesion [GO_BP]",5.94466070693989,5.55570986570293,1.58190092933821,1.59751850050907,0,0,0,2
+"positive regulation of cell activation [GO_BP]",6.40056618814571,5.53276634098805,2.16840986070834,1.58993693265382,0,0,0,2
+"lymphocyte mediated immunity [GO_BP]",6.38433684506317,5.36179360608853,1.89004102050954,1.89078843184792,0,0,0,2
+"adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains [GO_BP]",6.09249592327547,5.18222911823832,1.86139195639167,1.8619602459259,0,0,0,2
+"regulation of cell-cell adhesion [GO_BP]",5.15371027311057,4.74031585327988,1.36381564954319,1.39049762539261,0,0,0,2
+"positive regulation of alpha-beta T cell activation [GO_BP]",4.37531313150393,4.80938246791068,1.37362685202337,1.4001678460563,0,0,0,2
+"regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains [GO_BP]",4.54987719935761,4.487498050728,1.61200972482831,1.62487633861932,0,0,0,2
+"regulation of adaptive immune response [GO_BP]",4.78235804438789,5.85704021351538,2.22910316954744,2.23361216644567,0,0,0,2
+"regulation of T cell activation [GO_BP]",4.82214774279707,5.85704021351538,1.64494407378207,1.65036641377592,0,0,0,2
+"regulation of alpha-beta T cell proliferation [GO_BP]",4.70888854877401,5.73622563217561,1.60692819139349,1.61623607117348,0,0,0,2
+"positive regulation of lymphocyte activation [GO_BP]",4.50974896830704,5.63666282983228,1.78280278546547,1.79051692223891,0,0,0,2
+"alpha-beta T cell proliferation [GO_BP]",4.42521957564965,5.53276634098805,1.55275951182426,1.57779695393706,0,0,0,2
+"positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains [GO_BP]",5.10167289716985,4.74109932839265,1.94864184302613,1.94714205792766,0,0,0,2
+"negative regulation of leukocyte mediated cytotoxicity [GO_BP]",5.52866778663674,4.51960280449832,1.91625373569478,1.91489096497795,0,0,0,2
+"production of molecular mediator of immune response [GO_BP]",5.23666208548367,4.20967235577349,2.52569136157123,1.9787501493158,0,0,0,2
+"regulation of leukocyte mediated cytotoxicity [GO_BP]",5.49001135818068,4.51960280449832,2.17310426926589,2.15623305366757,0,0,0,2
+"regulation of type II interferon-mediated signaling pathway [GO_BP]",5.38899060574312,4.51960280449832,2.31767791292742,2.30229854377613,0,0,0,2
+"protection from natural killer cell mediated cytotoxicity [GO_BP]",5.38899060574312,4.51960280449832,2.31767791292742,2.30229854377613,0,0,0,2
+"regulation of response to type II interferon [GO_BP]",5.38899060574312,4.51960280449832,2.31767791292742,2.30229854377613,0,0,0,2
+"positive regulation of response to cytokine stimulus [GO_BP]",5.341425997101,5.53276634098805,2.40379025721694,3.3443663436197,0,0,0,2
+"positive regulation of adaptive immune response [GO_BP]",5.53923166191242,5.53276634098805,2.53419750883915,2.58009919089561,0,0,0,2
+"regulation of cytokine-mediated signaling pathway [GO_BP]",6.2605452105817,5.52699445615236,2.53419750883915,2.58009919089561,0,0,0,2
+"response to virus [GO_BP]",8,8,0,2.28388719841325,0,0,0,2
+"viral process [GO_BP]",7.12279817000677,6.60880949841261,0,1.83764428384083,0,0,0,2
+"activation of innate immune response [GO_BP]",8,8,0,0,1.33017363939592,0,0,2
+"activation of immune response [GO_BP]",8,8,0,0,1.94771483110114,0,0,2
+"regulation of viral life cycle [GO_BP]",6.93238438956419,8,0,0,0,0,0,2
+"cellular response to interferon-beta [GO_BP]",8,8,0,0,0,0,0,2
+"response to interferon-beta [GO_BP]",8,8,0,0,0,0,0,2
+"defense response to virus [GO_BP]",8,8,0,0,0,0,0,2
+"defense response to symbiont [GO_BP]",8,8,0,0,0,0,0,2
+"cellular response to lipopolysaccharide [GO_BP]",8,6.16971899781099,1.61200972482831,1.62487633861932,0,0,1.71774448381105,2
+"cellular response to molecule of bacterial origin [GO_BP]",8,6.00637859410199,1.58869964153092,1.60410060697066,0,0,1.69045625322986,2
+"response to lipopolysaccharide [GO_BP]",8,5.77849966136617,1.32493824911521,1.35270528357254,0,0,1.72130955738576,2
+"cellular response to biotic stimulus [GO_BP]",8,5.55570986570293,1.47336745804945,1.50446153905162,0,0,1.48759407659098,2
+"response to molecule of bacterial origin [GO_BP]",8,5.53430127978619,0,0,0,0,1.69045625322986,2
+"innate immune response-activating signaling pathway [GO_BP]",8,5.39007408016839,0,0,1.43273552627307,0,0,2
+"cytosolic pattern recognition receptor signaling pathway [GO_BP]",8,6.24637257067125,0,0,0,0,0,2
+"immune response-activating signaling pathway [GO_BP]",8,5.35960832772815,0,0,0,0,0,2
+"immune response-regulating signaling pathway [GO_BP]",8,5.26269861456882,0,0,0,0,0,2
+"pattern recognition receptor signaling pathway [GO_BP]",8,4.71730102052033,0,0,0,0,0,2
+"intracellular receptor signaling pathway [GO_BP]",8,4.48906376980748,0,0,0,0,0,2
+"regulation of defense response to virus [GO_BP]",6.06505456633425,5.39007408016839,0,0,0,0,0,3
+"NOD-like receptor signaling pathway - Mus musculus (house mouse) [KEGG]",6.56975408635084,5.19781928050662,0,0,0,0,0,3
+"regulation of pattern recognition receptor signaling pathway [GO_BP]",6.67509304412825,5.3306673422741,0,0,0,0,0,3
+"viral life cycle [GO_BP]",6.06751923193219,6.26156305863073,0,0,0,0,0,3
+"Influenza A - Mus musculus (house mouse) [KEGG]",4.87283821640107,5.73611135521954,0,0,0,0,0,3
+"regulation of viral genome replication [GO_BP]",5.36202622384884,6.00637859410199,0,0,0,0,0,3
+"regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway [GO_BP]",6.46535529600973,3.61197613595459,0,0,0,0,0,3
+"defense response to protozoan [GO_BP]",6.80987181671387,4.05894684133391,0,0,0,0,0,3
+"response to protozoan [GO_BP]",6.60895455145501,3.96559322313363,0,0,0,0,0,3
+"regulation of inflammasome-mediated signaling pathway [GO_BP]",4.94578592971009,4.20967235577349,0,0,0,0,0,3
+"inflammasome-mediated signaling pathway [GO_BP]",5.65040874558466,4.01504113605561,0,0,0,0,0,3
+"type I interferon production [GO_BP]",6.29595386103478,4.58774847096863,0,0,0,0,0,3
+"regulation of type I interferon production [GO_BP]",5.67508077524826,4.65946030400251,0,0,0,0,0,3
+"negative regulation of immune effector process [GO_BP]",5.65040874558466,4.63684553568562,0,0,0,0,0,3
+"cellular response to lipid [GO_BP]",5.31693163315842,3.59529446580244,0,0,0,0,1.71774448381105,3
+"canonical NF-kappaB signal transduction [GO_BP]",6.3096926491466,2.99077450418957,0,0,0,0,0,3
+"mononuclear cell proliferation [GO_BP]",5.63270820677197,2.89075461592763,0,0,0,0,0,3
+"regulation of canonical NF-kappaB signal transduction [GO_BP]",5.52866778663674,2.76128207872763,0,0,0,0,0,3
+"Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse) [KEGG]",5.25419259235075,3.3091354143364,0,2.33011559678822,0,0,0,3
+"regulation of lymphocyte activation [GO_BP]",4.27105220015983,5.17283732694184,0,1.32335751130791,0,0,0,3
+"ER-Phagosome pathway [Reactome]",4.45194242090176,3.89871992237537,0,1.33880440010526,0,0,0,3
+"alpha-beta T cell activation [GO_BP]",3.72732477804234,3.51621132022392,0,1.59667489488905,0,0,0,3
+"Viral myocarditis - Mus musculus (house mouse) [KEGG]",1.3470996968226,3.33449240191751,0,1.51374501615146,0,0,0,3
+"positive regulation of interferon-alpha production [GO_BP]",1.93869888196167,3.54848127152425,0,1.9787501493158,0,0,0,3
+"regulation of interferon-alpha production [GO_BP]",2.51814880442855,4.51960280449832,0,1.91489096497795,0,0,0,3
+"natural killer cell activation [GO_BP]",3.21271619177931,4.51960280449832,0,1.31638354383175,0,0,0,3
+"interferon-alpha production [GO_BP]",3.30652099476528,4.42645531345407,0,1.88858038813209,0,0,0,3
+"canonical inflammasome complex assembly [GO_BP]",4.78624592840325,2.96237907788124,0,0,0,0,0,3
+"lymphocyte proliferation [GO_BP]",4.64315470510182,2.93999651633565,0,0,0,0,0,3
+"regulation of NLRP3 inflammasome complex assembly [GO_BP]",4.12409963396192,3.11557807356766,0,0,0,0,0,3
+"NLRP3 inflammasome complex assembly [GO_BP]",3.96707072245724,3.03038705828405,0,0,0,0,0,3
+"T cell proliferation [GO_BP]",3.454596123109,3.02228670595032,0,0,0,0,0,3
+"regulation of antigen processing and presentation [GO_BP]",3.53493376990591,2.75536656822727,0,0,0,0,0,3
+"receptor signaling pathway via STAT [GO_BP]",3.78104236843157,3.51026361046508,0,0,0,0,0,3
+"Antigen processing-Cross presentation [Reactome]",3.92382967963739,3.76867121654164,0,0,0,0,0,3
+"receptor signaling pathway via JAK-STAT [GO_BP]",3.95829011445237,3.60177539666255,0,0,0,0,0,3
+"Antigen Presentation: Folding, assembly and peptide loading of class I MHC [Reactome]",4.45194242090176,3.76867121654164,0,0,0,0,0,3
+"biological process involved in interaction with host [GO_BP]",4.40294198539476,3.49761232880339,0,0,0,0,0,3
+"regulation of T cell proliferation [GO_BP]",2.69103264047134,3.54475630384951,0,0,0,0,0,3
+"MHC protein complex assembly [GO_BP]",2.96298250346101,4.60866705076107,0,0,0,0,0,3
+"peptide antigen assembly with MHC protein complex [GO_BP]",2.96298250346101,4.60866705076107,0,0,0,0,0,3
+"negative regulation of viral genome replication [GO_BP]",3.37916795713584,6.08110371583976,0,0,0,0,0,3
+"disruption of anatomical structure in another organism [GO_BP]",3.74726106983723,4.51960280449832,0,0,0,0,0,3
+"killing of cells of another organism [GO_BP]",3.84819272080458,4.58774847096863,0,0,0,0,0,3
+"disruption of cell in another organism [GO_BP]",3.84819272080458,4.58774847096863,0,0,0,0,0,3
+"viral genome replication [GO_BP]",3.98010848080756,4.99065315501148,0,0,0,0,0,3
+"regulation of alpha-beta T cell activation [GO_BP]",4.31330786460542,4.70529481838737,0,0,0,0,0,3
+"Human cytomegalovirus infection - Mus musculus (house mouse) [KEGG]",4.87283821640107,2.73844233232651,1.5517076580696,2.25425774002754,0,0,0,4
+"positive regulation of tumor necrosis factor production [GO_BP]",4.53533771774375,2.26400028240479,1.98034213575324,1.9787501493158,0,0,0,4
+"positive regulation of tumor necrosis factor superfamily cytokine production [GO_BP]",4.47211990035115,2.23841268639577,1.96881055157658,1.96968526381972,0,0,0,4
+"regulation of leukocyte mediated immunity [GO_BP]",6.11694350741543,2.92038942124739,1.35378896532107,1.38074924587844,0,0,0,4
+"leukocyte proliferation [GO_BP]",5.57345060142143,3.24226222343294,1.68169604666374,1.68589360971434,0,0,0,4
+"negative regulation of leukocyte mediated immunity [GO_BP]",5.62782654269422,3.07532902915441,1.45041504634419,1.47985999657431,0,0,0,4
+"regulation of mononuclear cell proliferation [GO_BP]",4.78836288517555,3.55250302558014,1.34099330233413,1.36657857436362,0,0,0,4
+"negative regulation of lymphocyte mediated immunity [GO_BP]",4.53180175837736,3.42182142792993,1.57783565964233,1.59592376694218,0,0,0,4
+"regulation of tumor necrosis factor superfamily cytokine production [GO_BP]",4.53180175837736,3.63243390352324,1.61200972482831,1.62487633861932,0,0,0,4
+"tumor necrosis factor superfamily cytokine production [GO_BP]",4.38509089514123,3.55250302558014,1.59028579712408,1.60502371742448,0,0,0,4
+"negative regulation of response to external stimulus [GO_BP]",5.52755640477021,3.57945687674307,2.17713627341487,1.60702118132816,0,0,0,4
+"regulation of leukocyte proliferation [GO_BP]",4.93397633593623,4.05147216843735,1.94010043784273,1.93581329645007,0,0,0,4
+"negative regulation of natural killer cell mediated cytotoxicity [GO_BP]",4.90951025944172,3.54848127152425,1.99432826036118,1.9787501493158,0,0,0,4
+"negative regulation of natural killer cell mediated immunity [GO_BP]",4.79844551588092,3.50052700115299,1.98034213575324,1.9787501493158,0,0,0,4
+"antigen processing and presentation via MHC class Ib [GO_BP]",5.53986962607784,3.87414304236141,3.13994771134123,3.2609622773109,0,0,0,4
+"antigen processing and presentation of exogenous peptide antigen via MHC class Ib [GO_BP]",4.37534878959761,4.72533015681515,3.52083242387424,3.57969908309506,0,0,0,4
+"antigen processing and presentation of peptide antigen via MHC class Ib [GO_BP]",4.70888854877401,4.12488032221868,3.15916414879325,3.3443663436197,0,0,0,4
+"T cell mediated cytotoxicity [GO_BP]",4.31330786460542,3.78706013479843,2.53419750883915,2.58009919089561,0,0,0,4
+"positive regulation of cytokine production involved in immune response [GO_BP]",4.07562047421132,3.63537809834357,2.95442092434043,3.00852992878341,0,0,0,4
+"positive regulation of cytokine-mediated signaling pathway [GO_BP]",4.70888854877401,4.58774847096863,2.45156237491741,2.46860722808103,0,0,0,4
+"positive regulation of T cell mediated cytotoxicity [GO_BP]",4.60243837412047,4.62448016440405,2.93359162955961,2.9712689897105,0,0,0,4
+"regulation of T cell mediated cytotoxicity [GO_BP]",4.12409963396192,4.31298642562447,2.75964824964558,2.83554824816518,0,0,0,4
+"antigen processing and presentation of peptide or polysaccharide antigen via MHC class II [GO_BP]",4.22574627084258,3.7924003636392,2.11367253914053,2.08538902264245,0,0,0,4
+"antigen processing and presentation of exogenous peptide antigen via MHC class II [GO_BP]",4.70888854877401,4.12488032221868,2.20586072946622,2.20555932132446,0,0,0,4
+"antigen processing and presentation of peptide antigen via MHC class II [GO_BP]",4.44968208388187,3.95666290342495,2.17310426926589,2.15445684180655,0,0,0,4
+"positive regulation of cell killing [GO_BP]",4.53535068002842,3.95666290342495,2.27508968246387,2.28388719841325,0,0,0,4
+"CD8-positive, alpha-beta T cell activation [GO_BP]",3.90194112208138,4.15789618061726,1.81757483691117,2.76282535558453,0,0,0,4
+"positive regulation of T cell mediated immunity [GO_BP]",3.69837461954282,4.48906376980748,2.42305582963985,2.42640516101084,0,0,0,4
+"positive regulation of leukocyte mediated cytotoxicity [GO_BP]",4.17979093334104,4.23945655405314,2.3546276846518,2.334313097825,0,0,0,4
+"response to type I interferon [GO_BP]",2.73366974642127,6.56785284354983,2.39236876793722,1.56904449313524,0,0,0,4
+"type I interferon-mediated signaling pathway [GO_BP]",2.2325531551051,5.69515659180589,2.45156237491741,1.60778132559141,0,0,0,4
+"cellular response to type I interferon [GO_BP]",2.2325531551051,5.69515659180589,2.45156237491741,1.60778132559141,0,0,0,4
+"immunoglobulin mediated immune response [GO_BP]",2.70476036655624,4.487498050728,1.87037588381952,1.87125059606266,1.72095286174281,0,0,4
+"B cell mediated immunity [GO_BP]",2.65903798592786,4.44310178467793,1.86420645238016,1.86389402634815,1.72095286174281,0,0,4
+"regulation of CD8-positive, alpha-beta T cell activation [GO_BP]",3.75106653287083,4.74109932839265,1.98034213575324,1.9787501493158,0,0,0,4
+"negative regulation of viral life cycle [GO_BP]",3.37916795713584,4.487498050728,1.90107930422727,1.90151993899108,0,0,0,4
+"positive regulation of alpha-beta T cell proliferation [GO_BP]",3.24103876592642,4.36357221100241,1.87230496801089,1.87276861114439,0,0,0,4
+"negative regulation of viral entry into host cell [GO_BP]",2.70476036655624,4.6892308499648,1.96881055157658,1.96968526381972,0,0,0,4
+"regulation of T cell mediated immunity [GO_BP]",2.74264937329589,3.71619723619754,2.21235826312902,2.21855489691413,0,0,0,4
+"regulation of CD8-positive, alpha-beta T cell proliferation [GO_BP]",2.64104780544036,4.31298642562447,2.25659798724775,2.2636330081957,0,0,0,4
+"CD8-positive, alpha-beta T cell proliferation [GO_BP]",2.54277063417518,4.2099918407904,2.22910316954744,2.23361216644567,0,0,0,4
+"positive regulation of lymphocyte mediated immunity [GO_BP]",2.89936247196181,3.73321916880282,1.91413129909128,1.91322975330862,0,0,0,4
+"positive regulation of leukocyte mediated immunity [GO_BP]",2.96683891131211,3.38002163023871,1.79531178818865,1.79618650043178,0,0,0,4
+"negative regulation of cytokine-mediated signaling pathway [GO_BP]",3.55531201608728,3.32327143085894,2.39642569720301,1.5702166424146,0,0,0,4
+"negative regulation of response to cytokine stimulus [GO_BP]",3.38238885522395,3.20698520072821,2.3546276846518,1.53484781376051,0,0,0,4
+"T cell mediated immunity [GO_BP]",3.69837461954282,3.00809488925786,1.94864184302613,1.94714205792766,0,0,0,4
+"positive regulation of mononuclear cell proliferation [GO_BP]",3.44453590214387,3.29960105983352,1.77052224509777,1.77387157646876,0,0,0,4
+"tolerance induction [GO_BP]",3.24103876592642,3.1472736543758,1.87230496801089,1.87276861114439,0,0,0,4
+"regulation of natural killer cell mediated cytotoxicity [GO_BP]",3.65521142884401,3.387452098883,1.56517099573551,1.58791412287407,0,0,0,4
+"regulation of natural killer cell mediated immunity [GO_BP]",3.51027852581393,3.29960105983352,1.53465160329762,1.56904449313524,0,0,0,4
+"regulation of lymphocyte mediated immunity [GO_BP]",3.95838187651019,3.64428432280188,1.61200972482831,1.62487633861932,0,0,0,4
+"regulation of lymphocyte proliferation [GO_BP]",3.7800232778186,3.59637426172408,1.35378896532107,1.38074924587844,0,0,0,4
+"natural killer cell mediated cytotoxicity [GO_BP]",3.6058057752204,2.89092480926038,1.37362685202337,1.4001678460563,0,0,0,4
+"natural killer cell mediated immunity [GO_BP]",3.49425399416601,2.82885452241485,1.35266302232283,1.3781059260567,0,0,0,4
+"positive regulation of leukocyte proliferation [GO_BP]",3.69350664303432,3.08179320354361,1.68342410485621,1.68730664007798,0,0,0,4
+"regulation of tumor necrosis factor production [GO_BP]",4.00586322314288,2.93930364676731,1.61699482472669,1.62487633861932,0,0,0,4
+"tumor necrosis factor production [GO_BP]",3.86516800780903,2.86326788859373,1.60623950975304,1.61580339764853,0,0,0,4
+"positive regulation of type II hypersensitivity [GO_BP]",2.96298250346101,3.12220094498554,2.3546276846518,2.334313097825,0,0,0,4
+"regulation of type II hypersensitivity [GO_BP]",2.96298250346101,3.12220094498554,2.3546276846518,2.334313097825,0,0,0,4
+"type II hypersensitivity [GO_BP]",2.96298250346101,3.12220094498554,2.3546276846518,2.334313097825,0,0,0,4
+"positive regulation of type IIa hypersensitivity [GO_BP]",2.96298250346101,3.12220094498554,2.3546276846518,2.334313097825,0,0,0,4
+"type IIa hypersensitivity [GO_BP]",2.96298250346101,3.12220094498554,2.3546276846518,2.334313097825,0,0,0,4
+"regulation of type IIa hypersensitivity [GO_BP]",2.96298250346101,3.12220094498554,2.3546276846518,2.334313097825,0,0,0,4
+"positive regulation of production of molecular mediator of immune response [GO_BP]",3.20147721343832,3.52293348541195,2.48117911164268,2.48046008087926,0,0,0,4
+"antibody-dependent cellular cytotoxicity [GO_BP]",3.23615462241698,3.32325046825355,2.40565952515347,2.41128067242106,0,0,0,4
+"acute inflammatory response to antigenic stimulus [GO_BP]",3.51411235087226,2.1621801254746,1.93200328795796,1.93241818598991,0,0,0,4
+"regulation of cytokine production involved in immune response [GO_BP]",3.66726699742933,2.9916863925914,2.59761097216236,2.65647763138319,0,0,0,4
+"antigen processing and presentation of endogenous peptide antigen via MHC class Ib [GO_BP]",3.65521142884401,2.82470687756929,2.22910316954744,2.23361216644567,0,0,0,4
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway [GO_BP]",3.65521142884401,2.82470687756929,2.22910316954744,2.23361216644567,0,0,0,4
+"regulation of production of molecular mediator of immune response [GO_BP]",3.27908679281633,2.8522315254841,2.27145117939897,2.28133137792892,0,0,0,4
+"regulation of hypersensitivity [GO_BP]",3.43325190866724,2.69233547739561,2.17713627341487,2.17397519576105,0,0,0,4
+"cytokine production involved in immune response [GO_BP]",3.14923413123694,2.69233547739561,2.46714179282292,2.46860722808103,0,0,0,4
+"hypersensitivity [GO_BP]",3.24052841461959,2.56635656863114,2.14252269365884,2.11648824734462,0,0,0,4
+"regulation of acute inflammatory response to antigenic stimulus [GO_BP]",3.15068434212377,2.50656087652576,2.11367253914053,2.08538902264245,0,0,0,4
+"humoral immune response [GO_BP]",0,3.56991179061732,1.86420645238016,1.86494136950159,1.72095286174281,0,2.3791516239122,4
+"antimicrobial humoral response [GO_BP]",0,4.17531595425368,2.3546276846518,2.334313097825,0,0,0,4
+"positive regulation of immunoglobulin production [GO_BP]",0,2.31451479110123,1.54461365962182,1.5702166424146,0,0,0,4
+"regulation of immunoglobulin production [GO_BP]",0,1.86044226916949,1.3256384408866,1.35327386274334,0,0,0,4
+"leukocyte chemotaxis [GO_BP]",0,1.37053552130911,2.21235826312902,1.56904449313524,0,0,0,4
+"regulation of interleukin-4 production [GO_BP]",0,1.98068581585688,1.86420645238016,1.86389402634815,0,0,0,4
+"interleukin-4 production [GO_BP]",0,1.80801722378306,1.77275526272501,1.77576410448083,0,0,0,4
+"positive regulation of interleukin-13 production [GO_BP]",0,2.45340843716521,2.07862785799443,2.05121293074969,0,0,0,4
+"positive regulation of interleukin-4 production [GO_BP]",0,2.1621801254746,1.93200328795796,1.93241818598991,0,0,0,4
+"neutrophil migration [GO_BP]",0,2.2866675844128,1.98177651320939,1.9787501493158,0,0,0,4
+"interleukin-13 production [GO_BP]",0,2.27703899065846,1.98034213575324,1.9787501493158,0,0,0,4
+"regulation of interleukin-13 production [GO_BP]",0,2.27703899065846,1.98034213575324,1.9787501493158,0,0,0,4
+"immunoglobulin production [GO_BP]",2.72495000164002,3.60177539666255,1.87230496801089,0,0,0,0,4
+"negative regulation of type I interferon-mediated signaling pathway [GO_BP]",2.29102406472937,2.62765938814533,2.17310426926589,0,0,0,0,4
+"immune system development [GO_BP]",2.91612597344247,2.62765938814533,1.5169668646281,0,0,0,0,4
+"regulation of type I interferon-mediated signaling pathway [GO_BP]",1.44047256799979,2.9916863925914,1.81757483691117,0,0,0,0,4
+"protein homotetramerization [GO_BP]",1.35548507630689,1.80801722378306,1.77275526272501,0,0,0,0,4
+"regulation of acute inflammatory response [GO_BP]",2.6968715879541,1.74115928415571,1.72699851220587,1.73198979064384,0,0,0,4
+"myeloid leukocyte migration [GO_BP]",2.29144439988951,1.86044226916949,2.17358576581974,2.16030444172414,0,0,0,4
+"positive regulation of acute inflammatory response [GO_BP]",2.70476036655624,2.24212211737727,1.96881055157658,1.96968526381972,0,0,0,4
+"positive regulation of myeloid leukocyte mediated immunity [GO_BP]",2.51814880442855,2.12480165818156,1.91625373569478,1.91489096497795,0,0,0,4
+"regulation of inflammatory response to antigenic stimulus [GO_BP]",2.35316469980808,2.01603809356505,1.87230496801089,1.87276861114439,0,0,0,4
+"granulocyte chemotaxis [GO_BP]",2.07285623216815,2.29987434424312,2.70451345131997,1.9787501493158,0,0,0,4
+"granulocyte migration [GO_BP]",1.60626949732882,1.94754611058129,2.48117911164268,1.8619602459259,0,0,0,4
+"positive regulation of leukocyte migration [GO_BP]",1.88347579685345,1.80275102630457,2.44729632883623,1.79064856221608,0,0,0,4
+"inflammatory response to antigenic stimulus [GO_BP]",2.07684440234174,1.42898289775628,1.54461365962182,1.5702166424146,0,0,0,4
+"Human papillomavirus infection - Mus musculus (house mouse) [KEGG]",1.61721697534487,1.87716893361877,1.37173583626545,1.84029939434213,0,0,0,4
+"regulation of B cell mediated immunity [GO_BP]",1.80045460857832,2.11160462752547,1.44587721951252,1.47184170885825,0,0,0,4
+"regulation of immunoglobulin mediated immune response [GO_BP]",1.80045460857832,2.11160462752547,1.44587721951252,1.47184170885825,0,0,0,4
+"viral entry into host cell [GO_BP]",2.13306580346232,2.82885452241485,1.35266302232283,1.3781059260567,0,0,0,4
+"entry into host [GO_BP]",2.04311318065703,2.74268843908399,1.31923391640778,1.34901560226108,0,0,0,4
+"positive regulation of B cell mediated immunity [GO_BP]",1.63767818104548,2.50492272138298,1.61200972482831,1.62487633861932,0,0,0,4
+"positive regulation of immunoglobulin mediated immune response [GO_BP]",1.63767818104548,2.50492272138298,1.61200972482831,1.62487633861932,0,0,0,4
+"positive regulation of natural killer cell mediated cytotoxicity [GO_BP]",1.37696968026528,2.92611355174816,1.78325387708037,1.79064856221608,0,0,0,4
+"positive regulation of natural killer cell mediated immunity [GO_BP]",1.32438397366979,2.85878025435378,1.75888391891573,1.76290191012921,0,0,0,4
+"regulation of biological process involved in symbiotic interaction [GO_BP]",1.55777278755869,3.44630128204732,1.58869964153092,1.60410060697066,0,0,0,4
+"Type I diabetes mellitus - Mus musculus (house mouse) [KEGG]",1.61243493745908,3.33449240191751,1.41126329091661,1.83801242432955,0,0,0,4
+"Graft-versus-host disease - Mus musculus (house mouse) [KEGG]",1.67884325150715,3.38540435376268,1.41126329091661,1.84029939434213,0,0,0,4
+"Autoimmune thyroid disease - Mus musculus (house mouse) [KEGG]",1.70533091080703,3.39799834961411,1.41126329091661,1.84029939434213,0,0,0,4
+"Allograft rejection - Mus musculus (house mouse) [KEGG]",1.70533091080703,3.39799834961411,1.41126329091661,1.84029939434213,0,0,0,4
+"positive regulation of lymphocyte proliferation [GO_BP]",2.37074597783177,3.34364771953272,1.78325387708037,1.79064856221608,0,0,0,4
+"positive regulation of natural killer cell activation [GO_BP]",2.20323473138889,3.03038705828405,1.83260273692872,1.83764428384083,0,0,0,4
+"Endosomal/Vacuolar pathway [Reactome]",2.22590648592428,3.76867121654164,1.51286510597491,1.57087583052793,0,0,0,4
+"regulation of natural killer cell activation [GO_BP]",2.26679228857467,3.51026361046508,1.60692819139349,1.61623607117348,0,0,0,4
+"regulation of viral entry into host cell [GO_BP]",1.93296508659955,3.87414304236141,1.72699851220587,1.73198979064384,0,0,0,4
+"modulation by symbiont of entry into host [GO_BP]",1.76568027575956,3.66304607408419,1.65633260377889,1.66145392997405,0,0,0,4
+"positive regulation of hypersensitivity [GO_BP]",2.73007886637075,2.96237907788124,2.27508968246387,2.28388719841325,0,0,0,4
+"positive regulation of CD8-positive, alpha-beta T cell activation [GO_BP]",2.64104780544036,2.89092480926038,2.25659798724775,2.2636330081957,0,0,0,4
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent [GO_BP]",2.64104780544036,2.89092480926038,2.25659798724775,2.2636330081957,0,0,0,4
+"positive regulation of acute inflammatory response to antigenic stimulus [GO_BP]",2.64104780544036,2.89092480926038,2.25659798724775,2.2636330081957,0,0,0,4
+"natural killer cell proliferation [GO_BP]",2.04808385935218,2.39925747382626,2.04912827161612,2.02339943590745,0,0,0,4
+"positive regulation of natural killer cell proliferation [GO_BP]",2.44724262970445,2.75536656822727,2.20586072946622,2.20555932132446,0,0,0,4
+"regulation of natural killer cell proliferation [GO_BP]",2.37062256472693,2.69233547739561,2.17713627341487,2.17397519576105,0,0,0,4
+"positive regulation of inflammatory response to antigenic stimulus [GO_BP]",2.29102406472937,2.62765938814533,2.17310426926589,2.15445684180655,0,0,0,4
+"neutrophil chemotaxis [GO_BP]",1.4552706054107,2.720469383222,2.17713627341487,2.17397519576105,0,0,0,4
+"positive regulation of natural killer cell cytokine production [GO_BP]",1.78434352939868,3.03038705828405,2.31767791292742,2.30229854377613,0,0,0,4
+"natural killer cell cytokine production [GO_BP]",1.70394056869901,2.96237907788124,2.27508968246387,2.28388719841325,0,0,0,4
+"regulation of natural killer cell cytokine production [GO_BP]",1.70394056869901,2.96237907788124,2.27508968246387,2.28388719841325,0,0,0,4
+"antibacterial humoral response [GO_BP]",1.70029075771094,3.29960105983352,2.89508143155607,2.94316476904548,0,0,0,4
+"positive regulation of CD8-positive, alpha-beta T cell proliferation [GO_BP]",2.04644364893825,3.32325046825355,2.40565952515347,2.41128067242106,0,0,0,4
+"positive regulation of TRAIL production [GO_BP]",2.14126933174168,3.44159582472305,2.45156237491741,2.46860722808103,0,0,0,4
+"regulation of TRAIL production [GO_BP]",2.14126933174168,3.44159582472305,2.45156237491741,2.46860722808103,0,0,0,4
+"natural killer cell tolerance induction [GO_BP]",2.14126933174168,3.44159582472305,2.45156237491741,2.46860722808103,0,0,0,4
+"TRAIL production [GO_BP]",2.14126933174168,3.44159582472305,2.45156237491741,2.46860722808103,0,0,0,4

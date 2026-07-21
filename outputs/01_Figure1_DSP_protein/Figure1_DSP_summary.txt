@@ -1,0 +1,6 @@
+Number of proteins tested: 35
+Number of Slide 5 ROIs used: 24
+HSV1 negative ROIs: 16
+HSV1 positive ROIs: 8
+Significant proteins raw limma FDR < 0.05: 18
+Significant proteins centered limma FDR < 0.05: 9

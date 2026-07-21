@@ -1,0 +1,6 @@
+"CellType","p_value","p_adj","label"
+"Astrocytes",0.0104368490583575,0.0203198734820435,"italic(padj) == 0.020"
+"Macrophages",0.0260368493511543,0.0325460616889429,"italic(padj) == 0.033"
+"Microglia",0.00398283420796323,0.0199141710398162,"italic(padj) == 0.020"
+"Neurons",0.0121919240892261,0.0203198734820435,"italic(padj) == 0.020"
+"Oligodendrocytes",0.152609185549027,0.152609185549027,"italic(padj) == 0.150"

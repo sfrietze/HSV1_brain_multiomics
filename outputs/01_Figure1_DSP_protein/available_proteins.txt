@@ -1,0 +1,35 @@
+Neurofilament light
+CD39
+S100B
+Olig2
+Ki-67
+MAP2
+CD163
+CD45
+TMEM119
+S6
+CD11b
+CD68
+Myelin basic protein
+Rt IgG2a
+CD31
+GFAP
+MHC II
+CD40
+IBA1
+Synaptophysin
+Rt IgG2b
+Histone H3
+GAPDH
+NeuN
+Rb IgG
+Vimentin
+GPNMB
+Ctsd
+SPP1
+MSR1
+CSF1R
+ITGAX
+CD9
+Aldh1l1
+Mertk

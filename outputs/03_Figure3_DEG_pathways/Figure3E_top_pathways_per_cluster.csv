@@ -1,0 +1,81 @@
+"Cluster","Cluster_Label","Pathway","max_log10padj"
+1,"Viral & Interferon-Driven Innate Immunity","regulation of syncytium formation by plasma membrane fusion [GO_BP]",3.97357587450951
+1,"Viral & Interferon-Driven Innate Immunity","regulation of toll-like receptor signaling pathway [GO_BP]",3.50052700115299
+1,"Viral & Interferon-Driven Innate Immunity","synapse pruning [GO_BP]",3.32529014120544
+1,"Viral & Interferon-Driven Innate Immunity","cell-cell fusion [GO_BP]",3.2688646748355
+1,"Viral & Interferon-Driven Innate Immunity","syncytium formation [GO_BP]",3.2688646748355
+1,"Viral & Interferon-Driven Innate Immunity","syncytium formation by plasma membrane fusion [GO_BP]",3.2688646748355
+1,"Viral & Interferon-Driven Innate Immunity","hematopoietic stem cell proliferation [GO_BP]",3.24619615230637
+1,"Viral & Interferon-Driven Innate Immunity","complement activation, classical pathway [GO_BP]",3.02818706006975
+1,"Viral & Interferon-Driven Innate Immunity","positive regulation of type I interferon production [GO_BP]",2.97820581722384
+1,"Viral & Interferon-Driven Innate Immunity","regulation of hematopoietic stem cell proliferation [GO_BP]",2.96237907788124
+2,"Antigen Presentation & Adaptive Cytotoxicity","mononuclear cell differentiation [GO_BP]",5.16869660950889
+2,"Antigen Presentation & Adaptive Cytotoxicity","lymphocyte differentiation [GO_BP]",4.80217394312612
+2,"Antigen Presentation & Adaptive Cytotoxicity","negative regulation of type I interferon production [GO_BP]",4.4943577577946
+2,"Antigen Presentation & Adaptive Cytotoxicity","regulation of autophagy [GO_BP]",4.40040373571553
+2,"Antigen Presentation & Adaptive Cytotoxicity","adhesion of symbiont to host [GO_BP]",4.37534878959761
+2,"Antigen Presentation & Adaptive Cytotoxicity","regulation of hemopoiesis [GO_BP]",4.22574627084258
+2,"Antigen Presentation & Adaptive Cytotoxicity","positive regulation of pattern recognition receptor signaling pathway [GO_BP]",4.17979093334104
+2,"Antigen Presentation & Adaptive Cytotoxicity","maintenance of location in cell [GO_BP]",3.95405322781836
+2,"Antigen Presentation & Adaptive Cytotoxicity","positive regulation of DNA-binding transcription factor activity [GO_BP]",3.90194112208138
+2,"Antigen Presentation & Adaptive Cytotoxicity","positive regulation of autophagy of mitochondrion [GO_BP]",3.90151882970071
+3,"Effector Inflammation & Cell Killing","myeloid cell differentiation [GO_BP]",4.40294198539476
+3,"Effector Inflammation & Cell Killing","acute inflammatory response [GO_BP]",3.49425399416601
+3,"Effector Inflammation & Cell Killing","positive regulation of inflammatory response [GO_BP]",3.4084170869331
+3,"Effector Inflammation & Cell Killing","regulation of myeloid leukocyte mediated immunity [GO_BP]",3.29761110134215
+3,"Effector Inflammation & Cell Killing","regulation of myeloid cell differentiation [GO_BP]",3.07007589383411
+3,"Effector Inflammation & Cell Killing","lipopolysaccharide-mediated signaling pathway [GO_BP]",2.95006333703062
+3,"Effector Inflammation & Cell Killing","positive regulation of endocytosis [GO_BP]",2.56937865635193
+3,"Effector Inflammation & Cell Killing","regulation of endocytosis [GO_BP]",2.46920702359576
+3,"Effector Inflammation & Cell Killing","regulation of granulocyte chemotaxis [GO_BP]",2.45156237491741
+3,"Effector Inflammation & Cell Killing","positive regulation of phagocytosis [GO_BP]",2.41906307932522
+4,"Adaptive Immune Signaling & Antigen Processing","regulation of inflammatory response [GO_BP]",8.76567341911169
+4,"Adaptive Immune Signaling & Antigen Processing","cellular response to virus [GO_BP]",5.65040874558466
+4,"Adaptive Immune Signaling & Antigen Processing","positive regulation of interleukin-1 production [GO_BP]",4.47626019372978
+4,"Adaptive Immune Signaling & Antigen Processing","nucleotide-binding oligomerization domain containing signaling pathway [GO_BP]",4.44968208388187
+4,"Adaptive Immune Signaling & Antigen Processing","Lipid and atherosclerosis - Mus musculus (house mouse) [KEGG]",4.36578787499236
+4,"Adaptive Immune Signaling & Antigen Processing","interleukin-1 production [GO_BP]",4.35064410099031
+4,"Adaptive Immune Signaling & Antigen Processing","nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway [GO_BP]",4.34327137700614
+4,"Adaptive Immune Signaling & Antigen Processing","autophagy [GO_BP]",4.20026524667565
+4,"Adaptive Immune Signaling & Antigen Processing","process utilizing autophagic mechanism [GO_BP]",4.20026524667565
+4,"Adaptive Immune Signaling & Antigen Processing","pyroptosis [GO_BP]",4.1964941903764
+5,"Interferon & Nucleotide Stress Response","regulation of response to biotic stimulus [GO_BP]",25.9007593964205
+5,"Interferon & Nucleotide Stress Response","regulation of innate immune response [GO_BP]",21.9320467746518
+5,"Interferon & Nucleotide Stress Response","positive regulation of response to biotic stimulus [GO_BP]",19.8310447805967
+5,"Interferon & Nucleotide Stress Response","positive regulation of innate immune response [GO_BP]",19.4768886207708
+5,"Interferon & Nucleotide Stress Response","positive regulation of defense response [GO_BP]",17.898750602056
+5,"Interferon & Nucleotide Stress Response","response to type II interferon [GO_BP]",17.6936844583069
+5,"Interferon & Nucleotide Stress Response","antigen processing and presentation [GO_BP]",14.2002390999274
+5,"Interferon & Nucleotide Stress Response","cellular response to type II interferon [GO_BP]",13.4744539659635
+5,"Interferon & Nucleotide Stress Response","defense response to bacterium [GO_BP]",12.6886910011769
+5,"Interferon & Nucleotide Stress Response","cell killing [GO_BP]",12.3442868562155
+6,"Migration, Folding & Vesicle Trafficking","response to virus [GO_BP]",18.0405772760736
+6,"Migration, Folding & Vesicle Trafficking","defense response to symbiont [GO_BP]",16.886107980997
+6,"Migration, Folding & Vesicle Trafficking","defense response to virus [GO_BP]",16.886107980997
+6,"Migration, Folding & Vesicle Trafficking","response to interferon-beta [GO_BP]",15.2211815227202
+6,"Migration, Folding & Vesicle Trafficking","activation of innate immune response [GO_BP]",14.920306795669
+6,"Migration, Folding & Vesicle Trafficking","cellular response to interferon-beta [GO_BP]",14.8229482684208
+6,"Migration, Folding & Vesicle Trafficking","activation of immune response [GO_BP]",13.2399791176032
+6,"Migration, Folding & Vesicle Trafficking","cytosolic pattern recognition receptor signaling pathway [GO_BP]",11.1794032402795
+6,"Migration, Folding & Vesicle Trafficking","response to molecule of bacterial origin [GO_BP]",10.2598905266736
+6,"Migration, Folding & Vesicle Trafficking","pattern recognition receptor signaling pathway [GO_BP]",9.93436811317028
+7,"Neuroimmune & Complement-Amyloid Axis","defense response to protozoan [GO_BP]",6.80987181671387
+7,"Neuroimmune & Complement-Amyloid Axis","regulation of pattern recognition receptor signaling pathway [GO_BP]",6.67509304412825
+7,"Neuroimmune & Complement-Amyloid Axis","response to protozoan [GO_BP]",6.60895455145501
+7,"Neuroimmune & Complement-Amyloid Axis","NOD-like receptor signaling pathway - Mus musculus (house mouse) [KEGG]",6.56975408635084
+7,"Neuroimmune & Complement-Amyloid Axis","regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway [GO_BP]",6.46535529600973
+7,"Neuroimmune & Complement-Amyloid Axis","canonical NF-kappaB signal transduction [GO_BP]",6.3096926491466
+7,"Neuroimmune & Complement-Amyloid Axis","type I interferon production [GO_BP]",6.29595386103478
+7,"Neuroimmune & Complement-Amyloid Axis","viral life cycle [GO_BP]",6.26156305863073
+7,"Neuroimmune & Complement-Amyloid Axis","negative regulation of viral genome replication [GO_BP]",6.08110371583976
+7,"Neuroimmune & Complement-Amyloid Axis","regulation of defense response to virus [GO_BP]",6.06505456633425
+8,"ER Stress, Autophagy & Immune Regulation","response to type I interferon [GO_BP]",6.56785284354983
+8,"ER Stress, Autophagy & Immune Regulation","regulation of leukocyte mediated immunity [GO_BP]",6.11694350741543
+8,"ER Stress, Autophagy & Immune Regulation","cellular response to type I interferon [GO_BP]",5.69515659180589
+8,"ER Stress, Autophagy & Immune Regulation","type I interferon-mediated signaling pathway [GO_BP]",5.69515659180589
+8,"ER Stress, Autophagy & Immune Regulation","negative regulation of leukocyte mediated immunity [GO_BP]",5.62782654269422
+8,"ER Stress, Autophagy & Immune Regulation","leukocyte proliferation [GO_BP]",5.57345060142143
+8,"ER Stress, Autophagy & Immune Regulation","antigen processing and presentation via MHC class Ib [GO_BP]",5.53986962607784
+8,"ER Stress, Autophagy & Immune Regulation","negative regulation of response to external stimulus [GO_BP]",5.52755640477021
+8,"ER Stress, Autophagy & Immune Regulation","regulation of leukocyte proliferation [GO_BP]",4.93397633593623
+8,"ER Stress, Autophagy & Immune Regulation","negative regulation of natural killer cell mediated cytotoxicity [GO_BP]",4.90951025944172

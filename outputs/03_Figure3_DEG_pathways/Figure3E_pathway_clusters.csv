@@ -1,0 +1,835 @@
+"Pathway","Cluster"
+"'de novo' post-translational protein folding [GO_BP]",1
+"'de novo' protein folding [GO_BP]",1
+"AGE-RAGE signaling pathway in diabetic complications - Mus musculus (house mouse) [KEGG]",2
+"Acute myeloid leukemia - Mus musculus (house mouse) [KEGG]",2
+"Allograft rejection - Mus musculus (house mouse) [KEGG]",3
+"Antigen Presentation: Folding, assembly and peptide loading of class I MHC [Reactome]",4
+"Antigen processing and presentation - Mus musculus (house mouse) [KEGG]",5
+"Antigen processing-Cross presentation [Reactome]",4
+"Autoimmune thyroid disease - Mus musculus (house mouse) [KEGG]",3
+"B cell activation [GO_BP]",2
+"B cell differentiation [GO_BP]",2
+"B cell mediated immunity [GO_BP]",3
+"B cell proliferation [GO_BP]",2
+"B cell receptor signaling pathway - Mus musculus (house mouse) [KEGG]",2
+"Binding and Uptake of Ligands by Scavenger Receptors [Reactome]",6
+"Biosynthesis of DHA-derived SPMs [Reactome]",6
+"Biosynthesis of specialized proresolving mediators (SPMs) [Reactome]",6
+"C-terminal protein amino acid modification [GO_BP]",2
+"C-type lectin receptor signaling pathway - Mus musculus (house mouse) [KEGG]",7
+"CAMKK-AMPK signaling cascade [GO_BP]",7
+"CD8-positive, alpha-beta T cell activation [GO_BP]",3
+"CD8-positive, alpha-beta T cell differentiation [GO_BP]",2
+"CD8-positive, alpha-beta T cell proliferation [GO_BP]",3
+"Cell adhesion molecule (CAM) interaction - Mus musculus (house mouse) [KEGG]",7
+"Chemokine signaling pathway - Mus musculus (house mouse) [KEGG]",7
+"Complement and coagulation cascades - Mus musculus (house mouse) [KEGG]",6
+"Complement cascade [Reactome]",6
+"Coronavirus disease - Mus musculus (house mouse) [KEGG]",6
+"Cytokine Signaling in Immune system [Reactome]",2
+"Cytosolic DNA-sensing pathway - Mus musculus (house mouse) [KEGG]",6
+"DAP12 interactions [Reactome]",6
+"DAP12 signaling [Reactome]",6
+"ER-Phagosome pathway [Reactome]",4
+"ER-nucleus signaling pathway [GO_BP]",2
+"ERK1 and ERK2 cascade [GO_BP]",2
+"Efferocytosis - Mus musculus (house mouse) [KEGG]",6
+"Endosomal/Vacuolar pathway [Reactome]",3
+"Epstein-Barr virus infection - Mus musculus (house mouse) [KEGG]",8
+"Erythropoietin activates RAS [Reactome]",2
+"FCGR activation [Reactome]",2
+"Fc epsilon RI signaling pathway - Mus musculus (house mouse) [KEGG]",2
+"Fc gamma R-mediated phagosome formation - Mus musculus (house mouse) [KEGG]",2
+"Fc receptor mediated stimulatory signaling pathway [GO_BP]",7
+"Fc receptor signaling pathway [GO_BP]",7
+"Fc-gamma receptor signaling pathway [GO_BP]",7
+"Fcgamma receptor (FCGR) dependent phagocytosis [Reactome]",2
+"G1/S transition of mitotic cell cycle [GO_BP]",2
+"Graft-versus-host disease - Mus musculus (house mouse) [KEGG]",3
+"Growth hormone receptor signaling [Reactome]",2
+"Hepatitis C - Mus musculus (house mouse) [KEGG]",6
+"Herpes simplex virus 1 infection - Mus musculus (house mouse) [KEGG]",5
+"Human T-cell leukemia virus 1 infection - Mus musculus (house mouse) [KEGG]",6
+"Human cytomegalovirus infection - Mus musculus (house mouse) [KEGG]",3
+"Human immunodeficiency virus 1 infection - Mus musculus (house mouse) [KEGG]",8
+"Human papillomavirus infection - Mus musculus (house mouse) [KEGG]",3
+"Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell [Reactome]",7
+"Influenza A - Mus musculus (house mouse) [KEGG]",4
+"Initial triggering of complement [Reactome]",6
+"Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse) [KEGG]",4
+"Leishmaniasis - Mus musculus (house mouse) [KEGG]",2
+"Lipid and atherosclerosis - Mus musculus (house mouse) [KEGG]",2
+"MHC protein complex assembly [GO_BP]",4
+"Measles - Mus musculus (house mouse) [KEGG]",7
+"MyD88-dependent toll-like receptor signaling pathway [GO_BP]",6
+"NLRP3 inflammasome complex assembly [GO_BP]",4
+"NOD-like receptor signaling pathway - Mus musculus (house mouse) [KEGG]",4
+"Natural killer cell mediated cytotoxicity - Mus musculus (house mouse) [KEGG]",2
+"Necroptosis - Mus musculus (house mouse) [KEGG]",2
+"Neutrophil degranulation [Reactome]",7
+"Nicotinamide salvaging [Reactome]",7
+"Nicotinate metabolism [Reactome]",7
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways [Reactome]",2
+"Osteoclast differentiation - Mus musculus (house mouse) [KEGG]",2
+"Other semaphorin interactions [Reactome]",6
+"PD-L1 expression and PD-1 checkpoint pathway in cancer - Mus musculus (house mouse) [KEGG]",2
+"Pertussis - Mus musculus (house mouse) [KEGG]",6
+"Phagocytosis - Mus musculus (house mouse) [KEGG]",7
+"Prolactin signaling pathway - Mus musculus (house mouse) [KEGG]",2
+"RIG-I-like receptor signaling pathway - Mus musculus (house mouse) [KEGG]",6
+"RNA catabolic process [GO_BP]",2
+"RNA stabilization [GO_BP]",2
+"Regulation of Complement cascade [Reactome]",6
+"Regulation of actin dynamics for phagocytic cup formation [Reactome]",2
+"Semaphorin interactions [Reactome]",6
+"Sertoli cell development [GO_BP]",2
+"Sertoli cell differentiation [GO_BP]",2
+"Signaling by Interleukins [Reactome]",2
+"Signaling by the B Cell Receptor (BCR) [Reactome]",2
+"Staphylococcus aureus infection - Mus musculus (house mouse) [KEGG]",6
+"Systemic lupus erythematosus - Mus musculus (house mouse) [KEGG]",6
+"T cell differentiation [GO_BP]",7
+"T cell mediated cytotoxicity [GO_BP]",3
+"T cell mediated immunity [GO_BP]",3
+"T cell proliferation [GO_BP]",4
+"TRAIL production [GO_BP]",3
+"Th1 and Th2 cell differentiation - Mus musculus (house mouse) [KEGG]",1
+"Th17 cell differentiation - Mus musculus (house mouse) [KEGG]",2
+"Toll-like receptor signaling pathway - Mus musculus (house mouse) [KEGG]",6
+"Toxoplasmosis - Mus musculus (house mouse) [KEGG]",7
+"Transcriptional misregulation in cancer - Mus musculus (house mouse) [KEGG]",2
+"Tuberculosis - Mus musculus (house mouse) [KEGG]",2
+"Type I diabetes mellitus - Mus musculus (house mouse) [KEGG]",3
+"Viral carcinogenesis - Mus musculus (house mouse) [KEGG]",7
+"Viral life cycle - HIV-1 - Mus musculus (house mouse) [KEGG]",7
+"Viral myocarditis - Mus musculus (house mouse) [KEGG]",4
+"activation of cysteine-type endopeptidase activity involved in apoptotic process [GO_BP]",1
+"activation of immune response [GO_BP]",8
+"activation of innate immune response [GO_BP]",8
+"acute inflammatory response [GO_BP]",1
+"acute inflammatory response to antigenic stimulus [GO_BP]",3
+"adaptive immune response [GO_BP]",8
+"adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains [GO_BP]",8
+"adhesion of symbiont to host [GO_BP]",7
+"adrenal gland development [GO_BP]",6
+"alpha-beta T cell activation [GO_BP]",4
+"alpha-beta T cell proliferation [GO_BP]",8
+"amide transport [GO_BP]",2
+"amyloid fibril formation [GO_BP]",6
+"amyloid-beta clearance [GO_BP]",6
+"angiogenesis [GO_BP]",1
+"antibacterial humoral response [GO_BP]",3
+"antibody-dependent cellular cytotoxicity [GO_BP]",3
+"antigen processing and presentation [GO_BP]",5
+"antigen processing and presentation of endogenous antigen [GO_BP]",5
+"antigen processing and presentation of endogenous peptide antigen [GO_BP]",5
+"antigen processing and presentation of endogenous peptide antigen via MHC class I [GO_BP]",5
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway [GO_BP]",3
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent [GO_BP]",3
+"antigen processing and presentation of endogenous peptide antigen via MHC class Ib [GO_BP]",3
+"antigen processing and presentation of exogenous antigen [GO_BP]",5
+"antigen processing and presentation of exogenous peptide antigen [GO_BP]",5
+"antigen processing and presentation of exogenous peptide antigen via MHC class II [GO_BP]",3
+"antigen processing and presentation of exogenous peptide antigen via MHC class Ib [GO_BP]",3
+"antigen processing and presentation of peptide antigen [GO_BP]",5
+"antigen processing and presentation of peptide antigen via MHC class I [GO_BP]",5
+"antigen processing and presentation of peptide antigen via MHC class II [GO_BP]",3
+"antigen processing and presentation of peptide antigen via MHC class Ib [GO_BP]",3
+"antigen processing and presentation of peptide or polysaccharide antigen via MHC class II [GO_BP]",3
+"antigen processing and presentation via MHC class Ib [GO_BP]",3
+"antimicrobial humoral immune response mediated by antimicrobial peptide [GO_BP]",6
+"antimicrobial humoral response [GO_BP]",3
+"antiviral innate immune response [GO_BP]",2
+"apoptotic cell clearance [GO_BP]",6
+"aromatic compound catabolic process [GO_BP]",2
+"artery morphogenesis [GO_BP]",6
+"autophagosome assembly [GO_BP]",2
+"autophagosome maturation [GO_BP]",2
+"autophagosome organization [GO_BP]",2
+"autophagy [GO_BP]",2
+"autophagy of mitochondrion [GO_BP]",2
+"base conversion or substitution editing [GO_BP]",2
+"biological process involved in interaction with host [GO_BP]",4
+"biological process involved in symbiotic interaction [GO_BP]",7
+"blood coagulation [GO_BP]",2
+"bone remodeling [GO_BP]",6
+"bone resorption [GO_BP]",6
+"calcium ion homeostasis [GO_BP]",2
+"calcium ion transmembrane import into cytosol [GO_BP]",7
+"calcium ion transmembrane transport [GO_BP]",2
+"calcium ion transport [GO_BP]",2
+"calcium-mediated signaling [GO_BP]",2
+"calmodulin dependent kinase signaling pathway [GO_BP]",7
+"canonical NF-kappaB signal transduction [GO_BP]",4
+"canonical inflammasome complex assembly [GO_BP]",4
+"cardiac muscle cell action potential [GO_BP]",2
+"cardiac muscle cell contraction [GO_BP]",2
+"cell activation involved in immune response [GO_BP]",2
+"cell chemotaxis [GO_BP]",1
+"cell junction disassembly [GO_BP]",6
+"cell killing [GO_BP]",5
+"cell-cell fusion [GO_BP]",6
+"cellular component disassembly [GO_BP]",2
+"cellular component maintenance [GO_BP]",6
+"cellular nitrogen compound catabolic process [GO_BP]",2
+"cellular response to biotic stimulus [GO_BP]",8
+"cellular response to chemokine [GO_BP]",6
+"cellular response to dsRNA [GO_BP]",7
+"cellular response to exogenous dsRNA [GO_BP]",7
+"cellular response to interferon-beta [GO_BP]",8
+"cellular response to interleukin-1 [GO_BP]",1
+"cellular response to interleukin-17 [GO_BP]",2
+"cellular response to interleukin-4 [GO_BP]",2
+"cellular response to lipid [GO_BP]",4
+"cellular response to lipopolysaccharide [GO_BP]",8
+"cellular response to lipoprotein particle stimulus [GO_BP]",6
+"cellular response to low-density lipoprotein particle stimulus [GO_BP]",6
+"cellular response to molecule of bacterial origin [GO_BP]",8
+"cellular response to organic cyclic compound [GO_BP]",2
+"cellular response to organonitrogen compound [GO_BP]",2
+"cellular response to peptide [GO_BP]",2
+"cellular response to tumor necrosis factor [GO_BP]",1
+"cellular response to type I interferon [GO_BP]",3
+"cellular response to type II interferon [GO_BP]",5
+"cellular response to unfolded protein [GO_BP]",2
+"cellular response to virus [GO_BP]",2
+"cellular senescence [GO_BP]",7
+"chaperone cofactor-dependent protein refolding [GO_BP]",1
+"chaperone-mediated protein folding [GO_BP]",1
+"chemokine-mediated signaling pathway [GO_BP]",6
+"chemotaxis [GO_BP]",1
+"cholesterol efflux [GO_BP]",6
+"coagulation [GO_BP]",2
+"complement activation [GO_BP]",6
+"complement activation, classical pathway [GO_BP]",6
+"cytokine production involved in immune response [GO_BP]",3
+"cytokine-mediated signaling pathway [GO_BP]",5
+"cytosolic pattern recognition receptor signaling pathway [GO_BP]",8
+"defense response to Gram-negative bacterium [GO_BP]",7
+"defense response to Gram-positive bacterium [GO_BP]",5
+"defense response to bacterium [GO_BP]",5
+"defense response to protozoan [GO_BP]",4
+"defense response to symbiont [GO_BP]",8
+"defense response to virus [GO_BP]",8
+"dendritic cell antigen processing and presentation [GO_BP]",7
+"dendritic spine maintenance [GO_BP]",6
+"deoxyribonucleotide catabolic process [GO_BP]",6
+"deoxyribose phosphate catabolic process [GO_BP]",6
+"disruption of anatomical structure in another organism [GO_BP]",4
+"disruption of cell in another organism [GO_BP]",4
+"endolysosomal toll-like receptor signaling pathway [GO_BP]",2
+"endoplasmic reticulum calcium ion homeostasis [GO_BP]",2
+"endoplasmic reticulum unfolded protein response [GO_BP]",2
+"entry into host [GO_BP]",3
+"erythrocyte differentiation [GO_BP]",2
+"erythrocyte homeostasis [GO_BP]",2
+"establishment of apical/basal cell polarity [GO_BP]",2
+"establishment of cell polarity [GO_BP]",2
+"establishment of epithelial cell apical/basal polarity [GO_BP]",2
+"establishment of protein localization to organelle [GO_BP]",2
+"establishment of protein localization to vacuole [GO_BP]",2
+"establishment or maintenance of cell polarity [GO_BP]",2
+"exocytosis [GO_BP]",2
+"extrinsic apoptotic signaling pathway [GO_BP]",2
+"fibroblast migration [GO_BP]",2
+"fructose 6-phosphate metabolic process [GO_BP]",6
+"glial cell activation [GO_BP]",2
+"glial cell migration [GO_BP]",6
+"gliogenesis [GO_BP]",6
+"granulocyte chemotaxis [GO_BP]",3
+"granulocyte differentiation [GO_BP]",2
+"granulocyte migration [GO_BP]",3
+"hematopoietic progenitor cell differentiation [GO_BP]",7
+"hematopoietic stem cell proliferation [GO_BP]",6
+"hemostasis [GO_BP]",2
+"heterocycle catabolic process [GO_BP]",2
+"homeostasis of number of cells [GO_BP]",2
+"humoral immune response [GO_BP]",3
+"humoral immune response mediated by circulating immunoglobulin [GO_BP]",6
+"hypersensitivity [GO_BP]",3
+"immune response-activating cell surface receptor signaling pathway [GO_BP]",2
+"immune response-activating signaling pathway [GO_BP]",8
+"immune response-regulating cell surface receptor signaling pathway [GO_BP]",2
+"immune response-regulating signaling pathway [GO_BP]",8
+"immune system development [GO_BP]",3
+"immunoglobulin mediated immune response [GO_BP]",3
+"immunoglobulin production [GO_BP]",3
+"immunoglobulin production involved in immunoglobulin-mediated immune response [GO_BP]",6
+"import into nucleus [GO_BP]",2
+"inflammasome-mediated signaling pathway [GO_BP]",4
+"inflammatory response to antigenic stimulus [GO_BP]",3
+"innate immune response activating cell surface receptor signaling pathway [GO_BP]",6
+"innate immune response-activating signaling pathway [GO_BP]",8
+"inorganic ion homeostasis [GO_BP]",2
+"interferon-alpha production [GO_BP]",4
+"interferon-beta production [GO_BP]",7
+"interferon-mediated signaling pathway [GO_BP]",5
+"interleukin-1 beta production [GO_BP]",2
+"interleukin-1 production [GO_BP]",2
+"interleukin-10 production [GO_BP]",2
+"interleukin-12 production [GO_BP]",2
+"interleukin-13 production [GO_BP]",3
+"interleukin-4 production [GO_BP]",3
+"interleukin-6 production [GO_BP]",2
+"interleukin-8 production [GO_BP]",2
+"intracellular calcium ion homeostasis [GO_BP]",2
+"intracellular monoatomic cation homeostasis [GO_BP]",2
+"intracellular monoatomic ion homeostasis [GO_BP]",2
+"intracellular receptor signaling pathway [GO_BP]",8
+"intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress [GO_BP]",2
+"killing of cells of another organism [GO_BP]",4
+"learning or memory [GO_BP]",6
+"leukocyte activation involved in immune response [GO_BP]",2
+"leukocyte activation involved in inflammatory response [GO_BP]",2
+"leukocyte cell-cell adhesion [GO_BP]",8
+"leukocyte chemotaxis [GO_BP]",3
+"leukocyte degranulation [GO_BP]",2
+"leukocyte mediated cytotoxicity [GO_BP]",8
+"leukocyte mediated immunity [GO_BP]",8
+"leukocyte migration [GO_BP]",1
+"leukocyte proliferation [GO_BP]",3
+"lipopolysaccharide-mediated signaling pathway [GO_BP]",1
+"lymphocyte activation involved in immune response [GO_BP]",2
+"lymphocyte differentiation [GO_BP]",7
+"lymphocyte mediated immunity [GO_BP]",8
+"lymphocyte proliferation [GO_BP]",4
+"mRNA catabolic process [GO_BP]",2
+"macroautophagy [GO_BP]",2
+"macrophage activation [GO_BP]",2
+"macrophage activation involved in immune response [GO_BP]",6
+"macrophage migration [GO_BP]",6
+"maintenance of location [GO_BP]",7
+"maintenance of location in cell [GO_BP]",7
+"maintenance of protein localization in organelle [GO_BP]",2
+"maintenance of protein location in cell [GO_BP]",2
+"membrane depolarization [GO_BP]",1
+"miRNA metabolic process [GO_BP]",2
+"miRNA processing [GO_BP]",2
+"microglia differentiation [GO_BP]",2
+"microglial cell activation [GO_BP]",2
+"microtubule depolymerization [GO_BP]",2
+"microtubule polymerization or depolymerization [GO_BP]",2
+"mitochondrial fission [GO_BP]",2
+"mitochondrion disassembly [GO_BP]",2
+"mitophagy [GO_BP]",2
+"modulation by host of symbiont process [GO_BP]",6
+"modulation by symbiont of entry into host [GO_BP]",3
+"monoatomic cation homeostasis [GO_BP]",2
+"monoatomic ion homeostasis [GO_BP]",2
+"mononuclear cell differentiation [GO_BP]",7
+"mononuclear cell migration [GO_BP]",2
+"mononuclear cell proliferation [GO_BP]",4
+"movement in host [GO_BP]",7
+"multicellular organismal-level iron ion homeostasis [GO_BP]",6
+"myeloid cell differentiation [GO_BP]",1
+"myeloid cell homeostasis [GO_BP]",2
+"myeloid leukocyte activation [GO_BP]",2
+"myeloid leukocyte differentiation [GO_BP]",2
+"myeloid leukocyte mediated immunity [GO_BP]",2
+"myeloid leukocyte migration [GO_BP]",3
+"natural killer cell activation [GO_BP]",4
+"natural killer cell cytokine production [GO_BP]",3
+"natural killer cell differentiation [GO_BP]",2
+"natural killer cell mediated cytotoxicity [GO_BP]",3
+"natural killer cell mediated immunity [GO_BP]",3
+"natural killer cell proliferation [GO_BP]",3
+"natural killer cell tolerance induction [GO_BP]",3
+"ncRNA catabolic process [GO_BP]",2
+"negative T cell selection [GO_BP]",6
+"negative regulation of B cell proliferation [GO_BP]",2
+"negative regulation of CD4-positive, alpha-beta T cell activation [GO_BP]",2
+"negative regulation of NLRP3 inflammasome complex assembly [GO_BP]",7
+"negative regulation of T cell activation [GO_BP]",7
+"negative regulation of T cell differentiation [GO_BP]",6
+"negative regulation of amyloid fibril formation [GO_BP]",6
+"negative regulation of blood coagulation [GO_BP]",6
+"negative regulation of canonical NF-kappaB signal transduction [GO_BP]",2
+"negative regulation of catabolic process [GO_BP]",2
+"negative regulation of cell activation [GO_BP]",2
+"negative regulation of cell adhesion [GO_BP]",6
+"negative regulation of cell development [GO_BP]",7
+"negative regulation of cell killing [GO_BP]",8
+"negative regulation of cell migration [GO_BP]",1
+"negative regulation of cell motility [GO_BP]",1
+"negative regulation of cell projection organization [GO_BP]",1
+"negative regulation of cell-cell adhesion [GO_BP]",7
+"negative regulation of cellular catabolic process [GO_BP]",2
+"negative regulation of cellular senescence [GO_BP]",7
+"negative regulation of coagulation [GO_BP]",6
+"negative regulation of cytokine production [GO_BP]",7
+"negative regulation of cytokine-mediated signaling pathway [GO_BP]",3
+"negative regulation of defense response [GO_BP]",8
+"negative regulation of defense response to virus [GO_BP]",7
+"negative regulation of endothelial cell proliferation [GO_BP]",6
+"negative regulation of epithelial cell proliferation [GO_BP]",1
+"negative regulation of glycoprotein metabolic process [GO_BP]",6
+"negative regulation of hemopoiesis [GO_BP]",7
+"negative regulation of hemostasis [GO_BP]",6
+"negative regulation of immune effector process [GO_BP]",4
+"negative regulation of immune response [GO_BP]",5
+"negative regulation of immune system process [GO_BP]",5
+"negative regulation of inflammasome-mediated signaling pathway [GO_BP]",7
+"negative regulation of inflammatory response [GO_BP]",2
+"negative regulation of innate immune response [GO_BP]",5
+"negative regulation of intracellular signal transduction [GO_BP]",2
+"negative regulation of leukocyte activation [GO_BP]",7
+"negative regulation of leukocyte cell-cell adhesion [GO_BP]",7
+"negative regulation of leukocyte differentiation [GO_BP]",2
+"negative regulation of leukocyte mediated cytotoxicity [GO_BP]",8
+"negative regulation of leukocyte mediated immunity [GO_BP]",3
+"negative regulation of leukocyte proliferation [GO_BP]",2
+"negative regulation of lipid localization [GO_BP]",6
+"negative regulation of locomotion [GO_BP]",1
+"negative regulation of long-term synaptic potentiation [GO_BP]",6
+"negative regulation of lymphocyte activation [GO_BP]",7
+"negative regulation of lymphocyte differentiation [GO_BP]",6
+"negative regulation of lymphocyte mediated immunity [GO_BP]",3
+"negative regulation of lymphocyte proliferation [GO_BP]",2
+"negative regulation of microtubule depolymerization [GO_BP]",2
+"negative regulation of mononuclear cell proliferation [GO_BP]",2
+"negative regulation of natural killer cell mediated cytotoxicity [GO_BP]",3
+"negative regulation of natural killer cell mediated immunity [GO_BP]",3
+"negative regulation of neuron projection development [GO_BP]",1
+"negative regulation of peptidyl-tyrosine phosphorylation [GO_BP]",6
+"negative regulation of platelet activation [GO_BP]",6
+"negative regulation of receptor signaling pathway via JAK-STAT [GO_BP]",7
+"negative regulation of receptor signaling pathway via STAT [GO_BP]",7
+"negative regulation of response to biotic stimulus [GO_BP]",5
+"negative regulation of response to cytokine stimulus [GO_BP]",3
+"negative regulation of response to endoplasmic reticulum stress [GO_BP]",2
+"negative regulation of response to external stimulus [GO_BP]",3
+"negative regulation of response to wounding [GO_BP]",6
+"negative regulation of sequestering of calcium ion [GO_BP]",7
+"negative regulation of toll-like receptor signaling pathway [GO_BP]",6
+"negative regulation of type I interferon production [GO_BP]",7
+"negative regulation of type I interferon-mediated signaling pathway [GO_BP]",3
+"negative regulation of tyrosine phosphorylation of STAT protein [GO_BP]",6
+"negative regulation of viral entry into host cell [GO_BP]",3
+"negative regulation of viral genome replication [GO_BP]",4
+"negative regulation of viral life cycle [GO_BP]",3
+"negative regulation of viral process [GO_BP]",5
+"negative regulation of viral transcription [GO_BP]",6
+"negative regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway [GO_BP]",2
+"negative regulation of wound healing [GO_BP]",6
+"negative thymic T cell selection [GO_BP]",6
+"neuroinflammatory response [GO_BP]",2
+"neutrophil chemotaxis [GO_BP]",3
+"neutrophil homeostasis [GO_BP]",6
+"neutrophil migration [GO_BP]",3
+"nuclear transport [GO_BP]",2
+"nucleobase-containing compound catabolic process [GO_BP]",2
+"nucleocytoplasmic transport [GO_BP]",2
+"nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway [GO_BP]",2
+"nucleotide-binding oligomerization domain containing 2 signaling pathway [GO_BP]",2
+"nucleotide-binding oligomerization domain containing signaling pathway [GO_BP]",2
+"organelle disassembly [GO_BP]",2
+"organic cyclic compound catabolic process [GO_BP]",2
+"pattern recognition receptor signaling pathway [GO_BP]",8
+"peptide antigen assembly with MHC protein complex [GO_BP]",4
+"peptide transport [GO_BP]",2
+"peptidyl-serine modification [GO_BP]",2
+"peptidyl-serine phosphorylation [GO_BP]",2
+"phagocytosis [GO_BP]",2
+"plasma lipoprotein particle clearance [GO_BP]",6
+"platelet activation [GO_BP]",2
+"podosome assembly [GO_BP]",2
+"polarized epithelial cell differentiation [GO_BP]",2
+"positive T cell selection [GO_BP]",2
+"positive regulation by symbiont of entry into host [GO_BP]",6
+"positive regulation of B cell mediated immunity [GO_BP]",3
+"positive regulation of CD8-positive, alpha-beta T cell activation [GO_BP]",3
+"positive regulation of CD8-positive, alpha-beta T cell proliferation [GO_BP]",3
+"positive regulation of DNA-binding transcription factor activity [GO_BP]",7
+"positive regulation of GTPase activity [GO_BP]",2
+"positive regulation of MAPK cascade [GO_BP]",2
+"positive regulation of NF-kappaB transcription factor activity [GO_BP]",2
+"positive regulation of RIG-I signaling pathway [GO_BP]",2
+"positive regulation of T cell activation [GO_BP]",8
+"positive regulation of T cell differentiation [GO_BP]",7
+"positive regulation of T cell mediated cytotoxicity [GO_BP]",3
+"positive regulation of T cell mediated immunity [GO_BP]",3
+"positive regulation of T cell proliferation [GO_BP]",7
+"positive regulation of TRAIL production [GO_BP]",3
+"positive regulation of acute inflammatory response [GO_BP]",3
+"positive regulation of acute inflammatory response to antigenic stimulus [GO_BP]",3
+"positive regulation of adaptive immune response [GO_BP]",8
+"positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains [GO_BP]",8
+"positive regulation of alpha-beta T cell activation [GO_BP]",8
+"positive regulation of alpha-beta T cell proliferation [GO_BP]",3
+"positive regulation of apoptotic signaling pathway [GO_BP]",2
+"positive regulation of autophagy [GO_BP]",2
+"positive regulation of autophagy of mitochondrion [GO_BP]",7
+"positive regulation of calcium ion transmembrane transporter activity [GO_BP]",2
+"positive regulation of calcium ion transport [GO_BP]",6
+"positive regulation of canonical NF-kappaB signal transduction [GO_BP]",7
+"positive regulation of catabolic process [GO_BP]",2
+"positive regulation of cell activation [GO_BP]",8
+"positive regulation of cell adhesion [GO_BP]",8
+"positive regulation of cell development [GO_BP]",2
+"positive regulation of cell killing [GO_BP]",3
+"positive regulation of cell-cell adhesion [GO_BP]",8
+"positive regulation of cellular catabolic process [GO_BP]",2
+"positive regulation of cellular component biogenesis [GO_BP]",2
+"positive regulation of cellular extravasation [GO_BP]",2
+"positive regulation of chemotaxis [GO_BP]",1
+"positive regulation of cholesterol efflux [GO_BP]",6
+"positive regulation of cholesterol transport [GO_BP]",6
+"positive regulation of chromatin binding [GO_BP]",2
+"positive regulation of cytokine production [GO_BP]",5
+"positive regulation of cytokine production involved in immune response [GO_BP]",3
+"positive regulation of cytokine-mediated signaling pathway [GO_BP]",3
+"positive regulation of defense response [GO_BP]",5
+"positive regulation of defense response to virus by host [GO_BP]",2
+"positive regulation of endocytosis [GO_BP]",1
+"positive regulation of endopeptidase activity [GO_BP]",2
+"positive regulation of extrinsic apoptotic signaling pathway [GO_BP]",2
+"positive regulation of fibroblast proliferation [GO_BP]",1
+"positive regulation of glial cell migration [GO_BP]",6
+"positive regulation of granulocyte chemotaxis [GO_BP]",1
+"positive regulation of hemopoiesis [GO_BP]",7
+"positive regulation of hydrolase activity [GO_BP]",2
+"positive regulation of hypersensitivity [GO_BP]",3
+"positive regulation of immune effector process [GO_BP]",8
+"positive regulation of immune response to tumor cell [GO_BP]",6
+"positive regulation of immunoglobulin mediated immune response [GO_BP]",3
+"positive regulation of immunoglobulin production [GO_BP]",3
+"positive regulation of inflammasome-mediated signaling pathway [GO_BP]",7
+"positive regulation of inflammatory response [GO_BP]",1
+"positive regulation of inflammatory response to antigenic stimulus [GO_BP]",3
+"positive regulation of innate immune response [GO_BP]",5
+"positive regulation of interferon-alpha production [GO_BP]",4
+"positive regulation of interferon-beta production [GO_BP]",6
+"positive regulation of interleukin-1 beta production [GO_BP]",2
+"positive regulation of interleukin-1 production [GO_BP]",2
+"positive regulation of interleukin-13 production [GO_BP]",3
+"positive regulation of interleukin-4 production [GO_BP]",3
+"positive regulation of interleukin-6 production [GO_BP]",2
+"positive regulation of kinase activity [GO_BP]",2
+"positive regulation of leukocyte activation [GO_BP]",8
+"positive regulation of leukocyte cell-cell adhesion [GO_BP]",8
+"positive regulation of leukocyte chemotaxis [GO_BP]",1
+"positive regulation of leukocyte differentiation [GO_BP]",7
+"positive regulation of leukocyte mediated cytotoxicity [GO_BP]",3
+"positive regulation of leukocyte mediated immunity [GO_BP]",3
+"positive regulation of leukocyte migration [GO_BP]",3
+"positive regulation of leukocyte proliferation [GO_BP]",3
+"positive regulation of lipid transport [GO_BP]",6
+"positive regulation of lymphocyte activation [GO_BP]",8
+"positive regulation of lymphocyte differentiation [GO_BP]",7
+"positive regulation of lymphocyte mediated immunity [GO_BP]",3
+"positive regulation of lymphocyte proliferation [GO_BP]",3
+"positive regulation of macroautophagy [GO_BP]",2
+"positive regulation of macrophage activation [GO_BP]",2
+"positive regulation of macrophage cytokine production [GO_BP]",2
+"positive regulation of mitochondrial fission [GO_BP]",2
+"positive regulation of mitophagy [GO_BP]",2
+"positive regulation of mononuclear cell proliferation [GO_BP]",3
+"positive regulation of myeloid cell differentiation [GO_BP]",2
+"positive regulation of myeloid leukocyte cytokine production involved in immune response [GO_BP]",2
+"positive regulation of myeloid leukocyte differentiation [GO_BP]",2
+"positive regulation of myeloid leukocyte mediated immunity [GO_BP]",3
+"positive regulation of natural killer cell activation [GO_BP]",3
+"positive regulation of natural killer cell cytokine production [GO_BP]",3
+"positive regulation of natural killer cell mediated cytotoxicity [GO_BP]",3
+"positive regulation of natural killer cell mediated immunity [GO_BP]",3
+"positive regulation of natural killer cell proliferation [GO_BP]",3
+"positive regulation of neutrophil chemotaxis [GO_BP]",1
+"positive regulation of neutrophil migration [GO_BP]",1
+"positive regulation of organelle organization [GO_BP]",2
+"positive regulation of osteoclast differentiation [GO_BP]",6
+"positive regulation of pattern recognition receptor signaling pathway [GO_BP]",7
+"positive regulation of peptidase activity [GO_BP]",2
+"positive regulation of peptidyl-tyrosine phosphorylation [GO_BP]",1
+"positive regulation of phagocytosis [GO_BP]",1
+"positive regulation of production of molecular mediator of immune response [GO_BP]",3
+"positive regulation of protein serine/threonine kinase activity [GO_BP]",2
+"positive regulation of protein-containing complex assembly [GO_BP]",2
+"positive regulation of protein-containing complex disassembly [GO_BP]",2
+"positive regulation of release of sequestered calcium ion into cytosol [GO_BP]",6
+"positive regulation of response to biotic stimulus [GO_BP]",5
+"positive regulation of response to cytokine stimulus [GO_BP]",8
+"positive regulation of response to tumor cell [GO_BP]",6
+"positive regulation of sterol transport [GO_BP]",6
+"positive regulation of stress-activated MAPK cascade [GO_BP]",2
+"positive regulation of stress-activated protein kinase signaling cascade [GO_BP]",2
+"positive regulation of syncytium formation by plasma membrane fusion [GO_BP]",6
+"positive regulation of tumor necrosis factor production [GO_BP]",3
+"positive regulation of tumor necrosis factor superfamily cytokine production [GO_BP]",3
+"positive regulation of type 2 immune response [GO_BP]",6
+"positive regulation of type I interferon production [GO_BP]",6
+"positive regulation of type I interferon-mediated signaling pathway [GO_BP]",6
+"positive regulation of type II hypersensitivity [GO_BP]",3
+"positive regulation of type IIa hypersensitivity [GO_BP]",3
+"positive regulation of viral entry into host cell [GO_BP]",6
+"positive regulation of viral genome replication [GO_BP]",2
+"positive regulation of viral process [GO_BP]",7
+"positive regulation of xenophagy [GO_BP]",2
+"positive thymic T cell selection [GO_BP]",6
+"post-transcriptional regulation of gene expression [GO_BP]",2
+"postsynapse to nucleus signaling pathway [GO_BP]",2
+"postsynaptic actin cytoskeleton organization [GO_BP]",6
+"postsynaptic cytoskeleton organization [GO_BP]",6
+"postsynaptic signal transduction [GO_BP]",7
+"process utilizing autophagic mechanism [GO_BP]",2
+"production of molecular mediator of immune response [GO_BP]",8
+"protection from natural killer cell mediated cytotoxicity [GO_BP]",8
+"protein K63-linked ubiquitination [GO_BP]",7
+"protein auto-ADP-ribosylation [GO_BP]",2
+"protein complex oligomerization [GO_BP]",1
+"protein depolymerization [GO_BP]",2
+"protein folding [GO_BP]",1
+"protein homooligomerization [GO_BP]",1
+"protein homotetramerization [GO_BP]",3
+"protein import into nucleus [GO_BP]",2
+"protein localization to nucleus [GO_BP]",2
+"protein maturation [GO_BP]",1
+"protein refolding [GO_BP]",1
+"protein stabilization [GO_BP]",2
+"protein targeting [GO_BP]",2
+"protein targeting to vacuole [GO_BP]",2
+"protein tetramerization [GO_BP]",1
+"protein-containing complex disassembly [GO_BP]",2
+"purine deoxyribonucleotide catabolic process [GO_BP]",6
+"purine deoxyribonucleotide metabolic process [GO_BP]",6
+"pyridine-containing compound biosynthetic process [GO_BP]",6
+"pyroptosis [GO_BP]",2
+"receptor signaling pathway via JAK-STAT [GO_BP]",4
+"receptor signaling pathway via STAT [GO_BP]",4
+"receptor-mediated endocytosis [GO_BP]",6
+"regulated exocytosis [GO_BP]",2
+"regulation of B cell mediated immunity [GO_BP]",3
+"regulation of B cell proliferation [GO_BP]",2
+"regulation of CD8-positive, alpha-beta T cell activation [GO_BP]",3
+"regulation of CD8-positive, alpha-beta T cell proliferation [GO_BP]",3
+"regulation of DNA-binding transcription factor activity [GO_BP]",7
+"regulation of ERK1 and ERK2 cascade [GO_BP]",2
+"regulation of Fc receptor mediated stimulatory signaling pathway [GO_BP]",7
+"regulation of NLRP3 inflammasome complex assembly [GO_BP]",4
+"regulation of RIG-I signaling pathway [GO_BP]",2
+"regulation of T cell activation [GO_BP]",8
+"regulation of T cell differentiation [GO_BP]",7
+"regulation of T cell mediated cytotoxicity [GO_BP]",3
+"regulation of T cell mediated immunity [GO_BP]",3
+"regulation of T cell proliferation [GO_BP]",4
+"regulation of TRAIL production [GO_BP]",3
+"regulation of acute inflammatory response [GO_BP]",3
+"regulation of acute inflammatory response to antigenic stimulus [GO_BP]",3
+"regulation of adaptive immune response [GO_BP]",8
+"regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains [GO_BP]",8
+"regulation of alpha-beta T cell activation [GO_BP]",4
+"regulation of alpha-beta T cell proliferation [GO_BP]",8
+"regulation of amyloid fibril formation [GO_BP]",6
+"regulation of amyloid-beta clearance [GO_BP]",6
+"regulation of antigen processing and presentation [GO_BP]",4
+"regulation of antigen receptor-mediated signaling pathway [GO_BP]",2
+"regulation of apoptotic signaling pathway [GO_BP]",2
+"regulation of autophagosome maturation [GO_BP]",2
+"regulation of autophagy [GO_BP]",7
+"regulation of autophagy of mitochondrion [GO_BP]",2
+"regulation of binding [GO_BP]",2
+"regulation of biological process involved in symbiotic interaction [GO_BP]",3
+"regulation of blood coagulation [GO_BP]",6
+"regulation of bone remodeling [GO_BP]",6
+"regulation of bone resorption [GO_BP]",6
+"regulation of calcium ion transmembrane transport [GO_BP]",2
+"regulation of calcium ion transport [GO_BP]",2
+"regulation of canonical NF-kappaB signal transduction [GO_BP]",4
+"regulation of cardiac muscle cell action potential [GO_BP]",2
+"regulation of cell killing [GO_BP]",8
+"regulation of cell-cell adhesion [GO_BP]",8
+"regulation of cellular extravasation [GO_BP]",2
+"regulation of cellular senescence [GO_BP]",7
+"regulation of chemotaxis [GO_BP]",1
+"regulation of cholesterol efflux [GO_BP]",6
+"regulation of cholesterol transport [GO_BP]",6
+"regulation of chromatin binding [GO_BP]",2
+"regulation of coagulation [GO_BP]",6
+"regulation of cysteine-type endopeptidase activity [GO_BP]",1
+"regulation of cysteine-type endopeptidase activity involved in apoptotic process [GO_BP]",1
+"regulation of cytokine production involved in immune response [GO_BP]",3
+"regulation of cytokine-mediated signaling pathway [GO_BP]",8
+"regulation of defense response to virus [GO_BP]",4
+"regulation of defense response to virus by host [GO_BP]",7
+"regulation of endocytosis [GO_BP]",1
+"regulation of erythrocyte differentiation [GO_BP]",1
+"regulation of exocytosis [GO_BP]",2
+"regulation of extrinsic apoptotic signaling pathway [GO_BP]",2
+"regulation of fibroblast proliferation [GO_BP]",2
+"regulation of glial cell migration [GO_BP]",6
+"regulation of granulocyte chemotaxis [GO_BP]",1
+"regulation of hematopoietic stem cell proliferation [GO_BP]",6
+"regulation of hemopoiesis [GO_BP]",7
+"regulation of hemostasis [GO_BP]",6
+"regulation of hypersensitivity [GO_BP]",3
+"regulation of immune effector process [GO_BP]",8
+"regulation of immune response to tumor cell [GO_BP]",6
+"regulation of immunoglobulin mediated immune response [GO_BP]",3
+"regulation of immunoglobulin production [GO_BP]",3
+"regulation of inflammasome-mediated signaling pathway [GO_BP]",4
+"regulation of inflammatory response [GO_BP]",2
+"regulation of inflammatory response to antigenic stimulus [GO_BP]",3
+"regulation of innate immune response [GO_BP]",5
+"regulation of interferon-alpha production [GO_BP]",4
+"regulation of interferon-beta production [GO_BP]",7
+"regulation of interleukin-1 beta production [GO_BP]",2
+"regulation of interleukin-1 production [GO_BP]",2
+"regulation of interleukin-10 production [GO_BP]",2
+"regulation of interleukin-12 production [GO_BP]",2
+"regulation of interleukin-13 production [GO_BP]",3
+"regulation of interleukin-4 production [GO_BP]",3
+"regulation of interleukin-6 production [GO_BP]",2
+"regulation of interleukin-8 production [GO_BP]",2
+"regulation of leukocyte cell-cell adhesion [GO_BP]",8
+"regulation of leukocyte chemotaxis [GO_BP]",1
+"regulation of leukocyte degranulation [GO_BP]",2
+"regulation of leukocyte differentiation [GO_BP]",2
+"regulation of leukocyte mediated cytotoxicity [GO_BP]",8
+"regulation of leukocyte mediated immunity [GO_BP]",3
+"regulation of leukocyte migration [GO_BP]",1
+"regulation of leukocyte proliferation [GO_BP]",3
+"regulation of lipopolysaccharide-mediated signaling pathway [GO_BP]",2
+"regulation of long-term synaptic potentiation [GO_BP]",6
+"regulation of lymphocyte activation [GO_BP]",4
+"regulation of lymphocyte differentiation [GO_BP]",7
+"regulation of lymphocyte mediated immunity [GO_BP]",3
+"regulation of lymphocyte proliferation [GO_BP]",3
+"regulation of lysosome organization [GO_BP]",2
+"regulation of macroautophagy [GO_BP]",2
+"regulation of macrophage activation [GO_BP]",2
+"regulation of macrophage cytokine production [GO_BP]",2
+"regulation of macrophage migration [GO_BP]",6
+"regulation of metal ion transport [GO_BP]",2
+"regulation of microtubule depolymerization [GO_BP]",2
+"regulation of mitochondrial fission [GO_BP]",2
+"regulation of mitophagy [GO_BP]",2
+"regulation of monocyte differentiation [GO_BP]",2
+"regulation of mononuclear cell migration [GO_BP]",2
+"regulation of mononuclear cell proliferation [GO_BP]",3
+"regulation of myeloid cell differentiation [GO_BP]",1
+"regulation of myeloid leukocyte differentiation [GO_BP]",2
+"regulation of myeloid leukocyte mediated immunity [GO_BP]",1
+"regulation of myoblast fusion [GO_BP]",6
+"regulation of natural killer cell activation [GO_BP]",3
+"regulation of natural killer cell cytokine production [GO_BP]",3
+"regulation of natural killer cell mediated cytotoxicity [GO_BP]",3
+"regulation of natural killer cell mediated immunity [GO_BP]",3
+"regulation of natural killer cell proliferation [GO_BP]",3
+"regulation of neutrophil chemotaxis [GO_BP]",1
+"regulation of neutrophil migration [GO_BP]",1
+"regulation of non-canonical Wnt signaling pathway [GO_BP]",2
+"regulation of osteoclast differentiation [GO_BP]",6
+"regulation of pattern recognition receptor signaling pathway [GO_BP]",4
+"regulation of peptidase activity [GO_BP]",2
+"regulation of peptidyl-tyrosine phosphorylation [GO_BP]",1
+"regulation of phagocytosis [GO_BP]",2
+"regulation of plasma lipoprotein particle levels [GO_BP]",6
+"regulation of platelet activation [GO_BP]",2
+"regulation of production of molecular mediator of immune response [GO_BP]",3
+"regulation of protein complex stability [GO_BP]",7
+"regulation of protein depolymerization [GO_BP]",2
+"regulation of protein serine/threonine kinase activity [GO_BP]",2
+"regulation of protein stability [GO_BP]",2
+"regulation of protein-containing complex assembly [GO_BP]",7
+"regulation of protein-containing complex disassembly [GO_BP]",2
+"regulation of receptor signaling pathway via JAK-STAT [GO_BP]",7
+"regulation of receptor signaling pathway via STAT [GO_BP]",7
+"regulation of regulated secretory pathway [GO_BP]",2
+"regulation of release of sequestered calcium ion into cytosol [GO_BP]",7
+"regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum [GO_BP]",2
+"regulation of response to biotic stimulus [GO_BP]",5
+"regulation of response to cytokine stimulus [GO_BP]",5
+"regulation of response to endoplasmic reticulum stress [GO_BP]",2
+"regulation of response to type II interferon [GO_BP]",8
+"regulation of sequestering of calcium ion [GO_BP]",7
+"regulation of stem cell proliferation [GO_BP]",6
+"regulation of sterol transport [GO_BP]",6
+"regulation of stress-activated protein kinase signaling cascade [GO_BP]",2
+"regulation of synapse organization [GO_BP]",6
+"regulation of syncytium formation by plasma membrane fusion [GO_BP]",6
+"regulation of tissue remodeling [GO_BP]",6
+"regulation of toll-like receptor signaling pathway [GO_BP]",6
+"regulation of tumor necrosis factor production [GO_BP]",3
+"regulation of tumor necrosis factor superfamily cytokine production [GO_BP]",3
+"regulation of type 2 immune response [GO_BP]",6
+"regulation of type I interferon production [GO_BP]",4
+"regulation of type I interferon-mediated signaling pathway [GO_BP]",3
+"regulation of type II hypersensitivity [GO_BP]",3
+"regulation of type II interferon production [GO_BP]",7
+"regulation of type II interferon-mediated signaling pathway [GO_BP]",8
+"regulation of type IIa hypersensitivity [GO_BP]",3
+"regulation of tyrosine phosphorylation of STAT protein [GO_BP]",7
+"regulation of vacuole organization [GO_BP]",2
+"regulation of viral entry into host cell [GO_BP]",3
+"regulation of viral genome replication [GO_BP]",4
+"regulation of viral life cycle [GO_BP]",8
+"regulation of viral process [GO_BP]",5
+"regulation of viral-induced cytoplasmic pattern recognition receptor signaling pathway [GO_BP]",4
+"regulation of xenophagy [GO_BP]",2
+"regulatory ncRNA processing [GO_BP]",2
+"regulatory ncRNA-mediated gene silencing [GO_BP]",2
+"release of sequestered calcium ion into cytosol [GO_BP]",7
+"release of sequestered calcium ion into cytosol by endoplasmic reticulum [GO_BP]",2
+"release of sequestered calcium ion into cytosol by sarcoplasmic reticulum [GO_BP]",2
+"response to axon injury [GO_BP]",6
+"response to chemokine [GO_BP]",6
+"response to dsRNA [GO_BP]",7
+"response to endoplasmic reticulum stress [GO_BP]",2
+"response to exogenous dsRNA [GO_BP]",7
+"response to extracellular stimulus [GO_BP]",6
+"response to gamma radiation [GO_BP]",2
+"response to growth hormone [GO_BP]",2
+"response to interferon-alpha [GO_BP]",7
+"response to interferon-beta [GO_BP]",8
+"response to interleukin-1 [GO_BP]",1
+"response to interleukin-4 [GO_BP]",2
+"response to ischemia [GO_BP]",2
+"response to lipopolysaccharide [GO_BP]",8
+"response to lipoprotein particle [GO_BP]",6
+"response to molecule of bacterial origin [GO_BP]",8
+"response to nutrient levels [GO_BP]",6
+"response to peptide [GO_BP]",2
+"response to peptide hormone [GO_BP]",2
+"response to protozoan [GO_BP]",4
+"response to tumor necrosis factor [GO_BP]",1
+"response to type I interferon [GO_BP]",3
+"response to type II interferon [GO_BP]",5
+"response to virus [GO_BP]",8
+"response to wounding [GO_BP]",6
+"sarcoplasmic reticulum calcium ion transport [GO_BP]",2
+"second-messenger-mediated signaling [GO_BP]",2
+"selective autophagy [GO_BP]",2
+"sensory system development [GO_BP]",6
+"sequestering of calcium ion [GO_BP]",7
+"sphingoid metabolic process [GO_BP]",6
+"sphingolipid metabolic process [GO_BP]",6
+"sphingosine metabolic process [GO_BP]",6
+"stem cell proliferation [GO_BP]",6
+"stress-activated protein kinase signaling cascade [GO_BP]",2
+"suppression of viral release by host [GO_BP]",7
+"synapse organization [GO_BP]",6
+"synapse pruning [GO_BP]",6
+"syncytium formation [GO_BP]",6
+"syncytium formation by plasma membrane fusion [GO_BP]",6
+"taxis [GO_BP]",1
+"tolerance induction [GO_BP]",3
+"toll-like receptor 3 signaling pathway [GO_BP]",2
+"toll-like receptor signaling pathway [GO_BP]",7
+"transepithelial transport [GO_BP]",6
+"tumor necrosis factor production [GO_BP]",3
+"tumor necrosis factor superfamily cytokine production [GO_BP]",3
+"type 2 immune response [GO_BP]",6
+"type I interferon production [GO_BP]",4
+"type I interferon-mediated signaling pathway [GO_BP]",3
+"type II hypersensitivity [GO_BP]",3
+"type II interferon production [GO_BP]",7
+"type II interferon-mediated signaling pathway [GO_BP]",5
+"type IIa hypersensitivity [GO_BP]",3
+"tyrosine phosphorylation of STAT protein [GO_BP]",7
+"vacuole organization [GO_BP]",2
+"viral entry into host cell [GO_BP]",3
+"viral genome replication [GO_BP]",4
+"viral life cycle [GO_BP]",4
+"viral process [GO_BP]",8
+"visual system development [GO_BP]",6
+"xenophagy [GO_BP]",7
