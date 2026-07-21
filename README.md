@@ -1,10 +1,7 @@
 # Intranasal HSV-1 Infection Drives Region-Specific Interferon-Dominant Microglial Remodeling
 
-This repository contains the code and data used to reproduce the analyses and figures for:
+Code and data supporting the analyses presented in **Frietze et al.**, *PLOS Pathogens* (under revision).
 
-**Frietze et al.**
-*Intranasal HSV-1 Infection Drives Region-Specific Interferon-Dominant Microglial Remodeling.*
-PLOS Pathogens (under revision)
 
 ## Repository organization
 
