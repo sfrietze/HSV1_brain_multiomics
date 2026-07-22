@@ -11,6 +11,8 @@ Code and data supporting the analyses presented in **Frietze et al.**, *PLOS Pat
 
 Figure-specific scripts are located in:
 
+- `code/00_preprocessing/`
+- `code/00_Multiome_QC/` – Supplementary Figure 2, panels A–F
 - `code/01_Figure1_DSP_protein/`
 - `code/02_Figure2_multiome_annotation/`
 - `code/03_Figure3_DEG_pathways/`
@@ -32,6 +34,14 @@ Analysis scripts and reproducibility resources are available at:
 ## Running the analyses
 
 Each figure directory contains the scripts required to reproduce that figure. Analyses were performed using R and Python.
+
+Supplementary Figure 2 panels can be reproduced using the scripts in `code/00_Multiome_QC/`. Panels A–C use the processed metadata in `data/00_preprocessing/`; panels E–F use the final annotated Seurat object distributed through Zenodo. Panel D accepts the Mock and HSV1 Cell Ranger ATAC fragment files as command-line arguments. Representative panel outputs are provided in `outputs/00_Multiome_QC/`.
+
+## Multiome preprocessing
+
+Raw sequencing data deposited in GEO were processed using Cell Ranger ARC 2.0.2 and the 10x Genomics mouse reference `refdata-cellranger-arc-mm10-2020-A-2.0.0`. Separate `cellranger-arc count` runs were performed for the Mock and HSV1 samples, with paired Gene Expression and Chromatin Accessibility libraries specified in the library CSV files. The resulting feature-barcode matrices and ATAC fragment files were used for downstream Seurat/Signac preprocessing and quality-control analyses.
+
+The large intermediate Seurat object can be regenerated from the GEO sequencing data using `code/00_preprocessing/00_GEX_create_seurat.R`. Lightweight QC metadata tables required for Supplementary Figure 2A–C are included in `data/00_preprocessing/`.
 
 ## Citation
 

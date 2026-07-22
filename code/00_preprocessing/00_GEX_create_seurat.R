@@ -75,6 +75,22 @@ DefaultAssay(obj) <- "CombinedRNA"
 
 obj[["percent.mt"]] <- PercentageFeatureSet(obj, pattern = "^mt-")
 
+# Save pre-filter RNA QC metadata used for Supplementary Figure 2B-C.
+# This avoids saving another large Seurat object.
+prefilter_qc <- obj@meta.data[, c(
+  "orig.ident",
+  "condition",
+  "nCount_RNA",
+  "nFeature_RNA",
+  "percent.mt"
+)]
+
+write.csv(
+  prefilter_qc,
+  file.path(opt$outdir, "combined_seurat_prefilter_QC_metadata.csv"),
+  row.names = TRUE
+)
+
 obj <- subset(
   obj,
   subset = nFeature_CombinedRNA > 200 &

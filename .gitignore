@@ -8,3 +8,9 @@ __pycache__/
 # Large files distributed through Zenodo
 data/03_add_final_annotations/combined_seurat_final_annotated.rds
 raw_data/bigwig_outputs/*.bw
+
+# Large generated Figure 2 intermediate
+outputs/02_Figure2_multiome_annotation/Figure2E_DAR_ATAC_signal/Figure2E_heatmap_signal_data.csv
+
+# Large intermediate Seurat object regenerated from Cell Ranger outputs available through GEO
+data/00_preprocessing/combined_seurat_regenerated_clustered.rds
