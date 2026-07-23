@@ -11,12 +11,12 @@ option_list <- list(
   make_option(
     "--outdir",
     type = "character",
-    default = "results/02_Figure2_multiome_annotation"
+    default = "outputs/02_Figure2_multiome_annotation"
   ),
   make_option(
     "--group_by",
     type = "character",
-    default = "celltype"
+    default = "annotated_clusters"
   )
 )
 
@@ -87,14 +87,14 @@ p <- DimPlot(
   theme_classic()
 
 ggsave(
-  filename = file.path(opt$outdir, "Figure2A_WNN_UMAP.pdf"),
+  filename = file.path(opt$outdir, "SuppFig3_WNN_UMAP.pdf"),
   plot = p,
   width = 7,
   height = 6
 )
 
 ggsave(
-  filename = file.path(opt$outdir, "Figure2A_WNN_UMAP.png"),
+  filename = file.path(opt$outdir, "SuppFig3_WNN_UMAP.png"),
   plot = p,
   width = 7,
   height = 6,
@@ -102,6 +102,6 @@ ggsave(
 )
 
 
-sink(file.path(opt$outdir, "sessionInfo_Figure2A_WNN_UMAP.txt"))
+sink(file.path(opt$outdir, "sessionInfo_SuppFig3_WNN_UMAP.txt"))
 sessionInfo()
 sink()
