@@ -43,7 +43,7 @@ Raw sequencing data deposited in GEO were processed using Cell Ranger ARC 2.0.2 
 
 The large intermediate Seurat object can be regenerated from the GEO sequencing data using `code/00_preprocessing/00_GEX_create_seurat.R`. Lightweight QC metadata tables required for Supplementary Figure 2A–C are included in `data/00_preprocessing/`.
 
-Supplementary Figure 5 uses Table S3 from Ding et al., available from the [Springer Nature supplementary-data record](https://springernature.figshare.com/articles/dataset/29206570).
+Supplementary Figure 4 uses Table S3 from Ding et al., available from the [Springer Nature supplementary-data record](https://springernature.figshare.com/articles/dataset/29206570).
 
 ## Citation
 

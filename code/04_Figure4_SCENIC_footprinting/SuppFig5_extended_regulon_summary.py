@@ -20,7 +20,7 @@ def main():
     parser.add_argument("--scplus", required=True, help="SCENIC+ scplusmdata.h5mu")
     parser.add_argument("--direct", required=True, help="eRegulon_direct.tsv")
     parser.add_argument("--extended", required=True, help="eRegulons_extended.tsv")
-    parser.add_argument("--outdir", default="outputs/SuppFig4")
+    parser.add_argument("--outdir", default="outputs/SuppFig5")
     parser.add_argument("--top_n", type=int, default=40)
     args = parser.parse_args()
 
@@ -54,7 +54,7 @@ def main():
     top_cols = z.var(axis=0).sort_values(ascending=False).head(args.top_n).index
     heatmap_data = z[top_cols]
 
-    heatmap_data.to_csv(os.path.join(args.outdir, "SuppFig4A_extended_regulon_activity_zscores.csv"))
+    heatmap_data.to_csv(os.path.join(args.outdir, "SuppFig5A_extended_regulon_activity_zscores.csv"))
 
     g = sns.clustermap(
         heatmap_data,
@@ -67,9 +67,9 @@ def main():
         cbar_kws={"label": "Z-scored AUCell"},
     )
 
-    g.savefig(os.path.join(args.outdir, "SuppFig4A_extended_regulon_activity_heatmap.pdf"),
+    g.savefig(os.path.join(args.outdir, "SuppFig5A_extended_regulon_activity_heatmap.pdf"),
               dpi=300, bbox_inches="tight")
-    g.savefig(os.path.join(args.outdir, "SuppFig4A_extended_regulon_activity_heatmap.png"),
+    g.savefig(os.path.join(args.outdir, "SuppFig5A_extended_regulon_activity_heatmap.png"),
               dpi=300, bbox_inches="tight")
     plt.close("all")
 
@@ -94,7 +94,7 @@ def main():
     extended_sizes["type"] = "Extended"
 
     sizes = pd.concat([direct_sizes, extended_sizes], ignore_index=True)
-    sizes.to_csv(os.path.join(args.outdir, "SuppFig4B_regulon_size_distribution_source.csv"),
+    sizes.to_csv(os.path.join(args.outdir, "SuppFig5B_regulon_size_distribution_source.csv"),
                  index=False)
 
     plt.figure(figsize=(6, 5))
@@ -106,9 +106,9 @@ def main():
     plt.legend()
     plt.tight_layout()
 
-    plt.savefig(os.path.join(args.outdir, "SuppFig4B_regulon_size_distribution.pdf"),
+    plt.savefig(os.path.join(args.outdir, "SuppFig5B_regulon_size_distribution.pdf"),
                 dpi=300, bbox_inches="tight")
-    plt.savefig(os.path.join(args.outdir, "SuppFig4B_regulon_size_distribution.png"),
+    plt.savefig(os.path.join(args.outdir, "SuppFig5B_regulon_size_distribution.png"),
                 dpi=300, bbox_inches="tight")
     plt.close("all")
 

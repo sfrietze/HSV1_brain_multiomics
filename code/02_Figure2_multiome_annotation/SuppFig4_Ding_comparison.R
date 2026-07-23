@@ -27,7 +27,7 @@ option_list <- list(
   make_option(
     "--outdir",
     type = "character",
-    default = "outputs/02_Figure2_multiome_annotation/SuppFig5_Ding_comparison"
+    default = "outputs/02_Figure2_multiome_annotation/SuppFig4_Ding_comparison"
   ),
   make_option(
     "--assay",
@@ -247,7 +247,7 @@ write_csv(
   shared_table,
   file.path(
     opt$outdir,
-    "Supplementary_Table_S5A_conserved_HSV_induced_genes.csv"
+    "Supplementary_Table_S4A_conserved_HSV_induced_genes.csv"
   )
 )
 
@@ -291,7 +291,7 @@ heatmap_a <- Heatmap(
 pdf(
   file.path(
     opt$outdir,
-    "SuppFig5A_Ding_conserved_HSV_induced_microglial_genes.pdf"
+    "SuppFig4A_Ding_conserved_HSV_induced_microglial_genes.pdf"
   ),
   width = 6.5,
   height = 10
@@ -372,7 +372,7 @@ write_csv(
   signature_table,
   file.path(
     opt$outdir,
-    "Supplementary_Table_S5B_Ding_signature_genes.csv"
+    "Supplementary_Table_S4B_Ding_signature_genes.csv"
   )
 )
 
@@ -467,7 +467,7 @@ heatmap_b2 <- Heatmap(
 pdf(
   file.path(
     opt$outdir,
-    "SuppFig5B_Ding_signature_mapping.pdf"
+    "SuppFig4B_Ding_signature_mapping.pdf"
   ),
   width = 10,
   height = 3.5
@@ -501,7 +501,7 @@ write_csv(
   summary_table,
   file.path(
     opt$outdir,
-    "SuppFig5_Ding_comparison_summary.csv"
+    "SuppFig4_Ding_comparison_summary.csv"
   )
 )
 
@@ -515,7 +515,7 @@ writeLines(
   session_lines,
   file.path(
     opt$outdir,
-    "sessionInfo_SuppFig5_Ding_comparison.txt"
+    "sessionInfo_SuppFig4_Ding_comparison.txt"
   )
 )
 
