@@ -218,6 +218,64 @@ fData(target_demoData)$DetectionRate <-
   fData(target_demoData)$DetectedSegments /
   nrow(pData(target_demoData))
 
+# Export QC-retained ROIs before gene-detection filtering for GEO
+geo_matrix <- log2(exprs(target_demoData))
+geo_matrix <- geo_matrix[
+  rownames(geo_matrix) != "NegProbe-WTX",
+  ,
+  drop = FALSE
+]
+
+geo_out <- data.frame(
+  Gene = rownames(geo_matrix),
+  geo_matrix,
+  check.names = FALSE
+)
+
+write.csv(
+  geo_out,
+  file.path(
+    output_dir,
+    "GSE324176_GeoMx_WTA_gene_expression_matrix_QCfiltered_43ROIs.csv"
+  ),
+  row.names = FALSE
+)
+
+cat(
+  "\nGEO matrix:",
+  nrow(geo_matrix), "genes x",
+  ncol(geo_matrix), "ROIs\n"
+)
+
+# Export matching metadata for the same QC-retained ROIs
+geo_meta <- pData(target_demoData)
+
+geo_meta_out <- data.frame(
+  DCC_file = sampleNames(target_demoData),
+  Slide = geo_meta$`Slide Name`,
+  ROI = geo_meta$`ROI (Label)`,
+  ROI_name = geo_meta$ROI_name,
+  condition = geo_meta$condition,
+  antigen = geo_meta$antigen,
+  infected_region = geo_meta$infected_region,
+  side_of_slide = geo_meta$side_of_slide,
+  region = geo_meta$region,
+  GenesDetected = geo_meta$GenesDetected,
+  GeneDetectionRate = geo_meta$GeneDetectionRate,
+  stringsAsFactors = FALSE
+)
+
+write.csv(
+  geo_meta_out,
+  file.path(
+    output_dir,
+    "GSE324176_GeoMx_WTA_ROI_metadata_QCfiltered_43ROIs.csv"
+  ),
+  row.names = FALSE
+)
+
+cat("GEO metadata:", nrow(geo_meta_out), "ROIs\n")
+
 negativeProbefData <- subset(
   fData(target_demoData),
   CodeClass == "Negative"
